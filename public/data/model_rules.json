@@ -1,0 +1,147 @@
+{
+  "target_classes": [
+    "Minor",
+    "Moderate",
+    "Severe",
+    "Fatal"
+  ],
+  "best_model": "XGBoost",
+  "top_features": [
+    {
+      "feature": "city_Kishangarh",
+      "importance": 0.004681163467466831
+    },
+    {
+      "feature": "city_Dumka",
+      "importance": 0.004403211642056704
+    },
+    {
+      "feature": "city_Tuensang",
+      "importance": 0.004377028904855251
+    },
+    {
+      "feature": "city_Lucknow",
+      "importance": 0.004172971937805414
+    },
+    {
+      "feature": "city_Chitradurga",
+      "importance": 0.003888387233018875
+    },
+    {
+      "feature": "city_North Lakhimpur",
+      "importance": 0.003783291671425104
+    },
+    {
+      "feature": "city_Bairabi",
+      "importance": 0.003692055121064186
+    },
+    {
+      "feature": "state_Uttar Pradesh",
+      "importance": 0.003680621273815632
+    },
+    {
+      "feature": "city_Pathanamthitta",
+      "importance": 0.0035902319941669703
+    },
+    {
+      "feature": "state_Himachal Pradesh",
+      "importance": 0.0034950103145092726
+    },
+    {
+      "feature": "city_Danapur",
+      "importance": 0.003424210473895073
+    },
+    {
+      "feature": "city_Sangli",
+      "importance": 0.0033873661886900663
+    },
+    {
+      "feature": "city_Rewa",
+      "importance": 0.003348052501678467
+    },
+    {
+      "feature": "city_Bomdila",
+      "importance": 0.003289500717073679
+    },
+    {
+      "feature": "city_Mawsynram",
+      "importance": 0.0032481274101883173
+    }
+  ],
+  "metrics": {
+    "training_time_seconds": 6.07,
+    "train_accuracy": 0.3045,
+    "test_accuracy": 0.2518,
+    "train_macro_f1": 0.3023,
+    "macro_precision": 0.2518,
+    "macro_recall": 0.2517,
+    "macro_f1": 0.249,
+    "weighted_f1": 0.2491,
+    "overfitting_gap": 0.0527,
+    "confusion_matrix": [
+      [
+        5979,
+        8528,
+        4870,
+        5624
+      ],
+      [
+        6008,
+        8583,
+        4871,
+        5609
+      ],
+      [
+        5960,
+        8433,
+        4926,
+        5585
+      ],
+      [
+        6071,
+        8464,
+        4797,
+        5692
+      ]
+    ],
+    "classification_report": {
+      "Minor": {
+        "precision": 0.24893829627779165,
+        "recall": 0.2391504339826407,
+        "f1-score": 0.24394622493318918,
+        "support": 25001.0
+      },
+      "Moderate": {
+        "precision": 0.2523817925194072,
+        "recall": 0.34234773243987077,
+        "f1-score": 0.2905600974965724,
+        "support": 25071.0
+      },
+      "Severe": {
+        "precision": 0.2530826140567201,
+        "recall": 0.19779955027304852,
+        "f1-score": 0.22205192931842768,
+        "support": 24904.0
+      },
+      "Fatal": {
+        "precision": 0.2528653931585962,
+        "recall": 0.2274616368286445,
+        "f1-score": 0.23949173223376952,
+        "support": 25024.0
+      },
+      "accuracy": 0.2518,
+      "macro avg": {
+        "precision": 0.2518170240031288,
+        "recall": 0.2516898383810511,
+        "f1-score": 0.2490124959954897,
+        "support": 100000.0
+      },
+      "weighted avg": {
+        "precision": 0.2518164328436439,
+        "recall": 0.2518,
+        "f1-score": 0.24906554129055203,
+        "support": 100000.0
+      }
+    }
+  }
+}
