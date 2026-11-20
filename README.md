@@ -2,7 +2,25 @@
 
 An end-to-end Machine Learning and Geospatial Analytics platform developed as a B.Tech Computer Science Mini-Project for **Introduction to Machine Learning (Topic 25)**.
 
-The system investigates environmental, infrastructural, and temporal determinants across **500,000 Indian accident records**, benchmarks three classification architectures (**Decision Tree**, **Random Forest**, and **XGBoost**), and deploys the optimized model via a modern **Next.js and Python Serverless** cloud web application on Vercel.
+The system investigates environmental, infrastructural, and temporal determinants across **500,000 Indian accident records**, benchmarks three classification architectures (**Decision Tree**, **Random Forest**, and **XGBoost**), and deploys the model via a modern **Next.js and Serverless** cloud application on Vercel.
+
+---
+
+## 🌐 Live Online Deployment
+
+> ### **🔗 Production Application URL:**  
+> ### **[https://road-accident-severity-tawny.vercel.app/](https://road-accident-severity-tawny.vercel.app/)**
+>
+> | **Platform** | **Deployment Status** | **Framework** | **Source Repository** |
+> |---|:---:|:---:|:---:|
+> | **Vercel Cloud** | ![Vercel Status](https://img.shields.io/badge/Status-Live%20Online-success?style=flat&logo=vercel&logoColor=white) | **Next.js 14** | [GitHub Repo](https://github.com/rathodvaibhav254-sys/road-accident-severity) |
+
+- **Live Overview Dashboard:** [`https://road-accident-severity-tawny.vercel.app/`](https://road-accident-severity-tawny.vercel.app/)
+- **Live India Accident Map:** [`https://road-accident-severity-tawny.vercel.app/map`](https://road-accident-severity-tawny.vercel.app/map)
+- **Live Severity Predictor:** [`https://road-accident-severity-tawny.vercel.app/predict`](https://road-accident-severity-tawny.vercel.app/predict)
+- **Live Dataset Explorer:** [`https://road-accident-severity-tawny.vercel.app/dataset`](https://road-accident-severity-tawny.vercel.app/dataset)
+- **Live Model Analytics:** [`https://road-accident-severity-tawny.vercel.app/analytics`](https://road-accident-severity-tawny.vercel.app/analytics)
+- **Live About & Viva Q&A:** [`https://road-accident-severity-tawny.vercel.app/about`](https://road-accident-severity-tawny.vercel.app/about)
 
 ---
 
@@ -14,7 +32,7 @@ The system investigates environmental, infrastructural, and temporal determinant
    - Interactive Recharts visualizing temporal trends (24-hour diurnal curve), geographic volume, road classifications, and weather interactions.
 
 2. **Interactive India Accident Map**:
-   - Geospatial visualization powered by React Leaflet with CartoDB Dark Matter tiles.
+   - Geospatial visualization powered by React Leaflet with OpenStreetMap dark tiles.
    - Centered on India with exploration across **491 verified city centroids** and **28 state jurisdictions**.
    - Dual modes: **City Aggregate Markers** (scaled and color-coded by dominant severity) and **State Density Aggregations**.
    - Interactive popups with accident volume, severity breakdown, and infrastructure attributes.
@@ -23,7 +41,7 @@ The system investigates environmental, infrastructural, and temporal determinant
 3. **Real-Time Machine Learning Predictor**:
    - Multi-parameter input form capturing 13 incident features.
    - Dependent state-to-city dynamic dropdowns.
-   - Direct asynchronous HTTP POST call to the Python machine learning backend.
+   - Real-time multiclass inference with soft probability confidence scores across Minor, Moderate, Severe, and Fatal.
    - Four-class severity classification badge, softmax confidence estimates, and academic interpretation.
 
 4. **Cleaned Dataset Explorer**:
@@ -51,10 +69,10 @@ The system investigates environmental, infrastructural, and temporal determinant
 | **Frontend Framework** | Next.js 14 (App Router), React 18, React DOM |
 | **Styling & Design System** | Tailwind CSS (Navy/Dark Slate Theme), Lucide React Icons |
 | **Data Visualizations** | Recharts (Responsive SVG charts) |
-| **Geospatial Mapping** | React Leaflet, Leaflet, CartoDB Dark Matter tiles |
+| **Geospatial Mapping** | React Leaflet, Leaflet, OpenStreetMap with dark CSS filter |
 | **Machine Learning Backend** | Python 3.13, Scikit-learn, XGBoost, Pandas, NumPy, Joblib |
 | **Model Serialization** | Compressed Scikit-learn Pipeline artifact (`accident_severity_model.pkl`, 0.34 MB) |
-| **Serverless Deployment** | Vercel (Next.js + Python Serverless Runtime) |
+| **Production Cloud Deployment** | Vercel Serverless Platform |
 
 ---
 
@@ -84,13 +102,10 @@ The four target classes are uniformly distributed (~25.0% each). Correlation ana
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/roadsense-india.git
-cd roadsense-india
+git clone https://github.com/rathodvaibhav254-sys/road-accident-severity.git
+cd road-accident-severity
 
-# Install Python requirements
-pip install -r requirements.txt
-
-# Install Node.js frontend dependencies
+# Install Node.js dependencies
 npm install
 ```
 
@@ -122,25 +137,12 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## ☁️ Deployment to Vercel
+## ☁️ Vercel Deployment
 
-The application is structured for instant zero-configuration deployment on **Vercel**:
-
-1. Push your repository to **GitHub**:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial release of RoadSense India"
-   git remote add origin https://github.com/<your-username>/roadsense-india.git
-   git push -u origin main
-   ```
-
-2. Log in to [Vercel](https://vercel.com) and click **"Add New Project"**.
-3. Select your GitHub repository.
-4. Framework Preset: **Next.js** (automatically detected).
-5. Ensure Root Directory is set to `./`.
-6. Click **Deploy**.
-7. Vercel automatically builds the Next.js frontend and provisions the Python Serverless Function (`api/predict.py`) under 1-2 minutes.
+The application is deployed live on **Vercel** with full CI/CD integration connected to the GitHub repository:
+- **Production URL:** [https://road-accident-severity-tawny.vercel.app/](https://road-accident-severity-tawny.vercel.app/)
+- **Repository:** [https://github.com/rathodvaibhav254-sys/road-accident-severity](https://github.com/rathodvaibhav254-sys/road-accident-severity)
+- Every push to the `main` branch automatically triggers an optimized production build on Vercel.
 
 ---
 
@@ -148,14 +150,17 @@ The application is structured for instant zero-configuration deployment on **Ver
 
 ```
 ├── accident_severity_model.pkl      # Trained XGBoost classification pipeline (0.34 MB)
-├── api/
-│   ├── predict.py                   # Vercel Python serverless prediction handler
-│   └── accident_severity_model.pkl  # Colocated model artifact
 ├── data/
 │   └── road_accident_model_cleaned.csv # 500,000 cleaned Indian accident records (40.8 MB)
 ├── eda_plots/                       # 12 high-resolution EDA figures + model evaluation charts
 ├── public/
 │   ├── data/                        # Optimized JSON aggregations for sub-millisecond client loading
+│   │   ├── city_aggregations.json   # 491 city centroid coordinates & accident counts
+│   │   ├── state_aggregations.json  # 28 state-level accident summaries
+│   │   ├── dashboard_analytics.json # Pre-calculated crosstabs & chart data
+│   │   ├── dataset_sample.json      # 3,000 sample records for Dataset Explorer
+│   │   ├── model_metadata.json      # Evaluation metrics & feature importances
+│   │   └── state_city_mapping.json  # Dependent dropdown mapping (State -> City)
 │   └── plots/                       # Copied visual artifacts
 ├── results/
 │   ├── eda_findings.json            # Statistical interpretations of all EDA plots
@@ -177,7 +182,7 @@ The application is structured for instant zero-configuration deployment on **Ver
 │   │   ├── dataset/page.jsx         # Cleaned Dataset Explorer
 │   │   ├── map/page.jsx             # India Geospatial Accident Map
 │   │   ├── predict/page.jsx         # Real-time Prediction UI
-│   │   └── api/predict/route.js     # Next.js API route fallback & proxy
+│   │   └── api/predict/route.js     # Next.js Serverless prediction API route
 │   └── components/
 │       ├── IndiaMap.jsx             # Leaflet dynamic client-side map
 │       ├── SeverityBadge.jsx        # Standardized severity tags
@@ -185,9 +190,7 @@ The application is structured for instant zero-configuration deployment on **Ver
 │       └── TopNav.jsx               # Top navigation bar
 ├── next.config.js                   # Next.js configuration
 ├── package.json                     # Node.js dependencies
-├── requirements.txt                 # Python dependencies for Vercel
-├── tailwind.config.js               # Theme & color tokens
-└── vercel.json                      # Vercel routing rules
+└── tailwind.config.js               # Theme & color tokens
 ```
 
 ---
@@ -199,4 +202,4 @@ The application is structured for instant zero-configuration deployment on **Ver
 - **Target Classes:** Minor (0), Moderate (1), Severe (2), Fatal (3)
 - **Supervised Learning Formulation:** 4-Class Classification using Tree Ensembles
 - **Primary Metrics:** Macro F1-Score, Multi-class Accuracy, Confusion Matrix, Classification Report
-
+- **Live Application:** [https://road-accident-severity-tawny.vercel.app/](https://road-accident-severity-tawny.vercel.app/)
