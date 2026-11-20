@@ -1,0 +1,229 @@
+{
+  "total_accidents": 500000,
+  "severity_summary": {
+    "Minor": 125005,
+    "Moderate": 125356,
+    "Severe": 124521,
+    "Fatal": 125118
+  },
+  "state_counts": {
+    "Andhra Pradesh": 38549,
+    "Assam": 33496,
+    "Bihar": 31852,
+    "Arunachal Pradesh": 29316,
+    "Gujarat": 24527,
+    "Chhattisgarh": 21723,
+    "Haryana": 20597,
+    "Goa": 19218,
+    "Karnataka": 18823,
+    "Madhya Pradesh": 18815,
+    "Maharashtra": 18705,
+    "Kerala": 17744,
+    "Jharkhand": 16185,
+    "Himachal Pradesh": 16135,
+    "Tamil Nadu": 14570,
+    "West Bengal": 14502,
+    "Punjab": 14491,
+    "Odisha": 14481,
+    "Uttar Pradesh": 14467,
+    "Rajasthan": 14352,
+    "Telangana": 14340,
+    "Meghalaya": 10558,
+    "Nagaland": 10515,
+    "Sikkim": 10485,
+    "Tripura": 10440,
+    "Manipur": 10384,
+    "Uttarakhand": 10382,
+    "Mizoram": 10348
+  },
+  "top_cities": {
+    "Karimganj": 2422,
+    "Bilaspur": 2379,
+    "Bhavnagar": 2045,
+    "Lucknow": 2042,
+    "Kota": 2042,
+    "Hisar": 2038,
+    "Cuncolim": 2025,
+    "Muzaffarpur": 2018,
+    "Sagar": 2016,
+    "Bhopal": 2015,
+    "Mapusa": 2014,
+    "Diphu": 2013,
+    "Changlang": 2013,
+    "Shillong": 2012,
+    "Guntur": 2012
+  },
+  "month_distribution": {
+    "1": 42684,
+    "2": 38744,
+    "3": 42253,
+    "4": 40752,
+    "5": 42536,
+    "6": 40952,
+    "7": 42600,
+    "8": 42525,
+    "9": 40996,
+    "10": 42457,
+    "11": 40984,
+    "12": 42517
+  },
+  "hour_distribution": {
+    "0": 20504,
+    "1": 20773,
+    "2": 20697,
+    "3": 21005,
+    "4": 21076,
+    "5": 20801,
+    "6": 21026,
+    "7": 20658,
+    "8": 20793,
+    "9": 20690,
+    "10": 20742,
+    "11": 21002,
+    "12": 20917,
+    "13": 20974,
+    "14": 20996,
+    "15": 20845,
+    "16": 20896,
+    "17": 20980,
+    "18": 20744,
+    "19": 20637,
+    "20": 21031,
+    "21": 20711,
+    "22": 20686,
+    "23": 20816
+  },
+  "day_distribution": {
+    "Monday": 71620,
+    "Tuesday": 71353,
+    "Wednesday": 71682,
+    "Thursday": 71384,
+    "Friday": 71526,
+    "Saturday": 70940,
+    "Sunday": 71495
+  },
+  "weather_vs_severity": {
+    "Clear": {
+      "Fatal": 25137,
+      "Minor": 25235,
+      "Moderate": 25178,
+      "Severe": 25141
+    },
+    "Cloudy": {
+      "Fatal": 25083,
+      "Minor": 24989,
+      "Moderate": 25085,
+      "Severe": 24871
+    },
+    "Foggy": {
+      "Fatal": 24804,
+      "Minor": 25059,
+      "Moderate": 25220,
+      "Severe": 24980
+    },
+    "Rainy": {
+      "Fatal": 25017,
+      "Minor": 25014,
+      "Moderate": 25024,
+      "Severe": 24986
+    },
+    "Sunny": {
+      "Fatal": 25077,
+      "Minor": 24708,
+      "Moderate": 24849,
+      "Severe": 24543
+    }
+  },
+  "road_vs_severity": {
+    "City Road": {
+      "Fatal": 25109,
+      "Minor": 24937,
+      "Moderate": 25205,
+      "Severe": 24892
+    },
+    "Expressway": {
+      "Fatal": 24788,
+      "Minor": 25233,
+      "Moderate": 24879,
+      "Severe": 24882
+    },
+    "National Highway": {
+      "Fatal": 25050,
+      "Minor": 24948,
+      "Moderate": 25084,
+      "Severe": 24952
+    },
+    "Rural Road": {
+      "Fatal": 24971,
+      "Minor": 25071,
+      "Moderate": 24967,
+      "Severe": 25055
+    },
+    "State Highway": {
+      "Fatal": 25200,
+      "Minor": 24816,
+      "Moderate": 25221,
+      "Severe": 24740
+    }
+  },
+  "density_vs_severity": {
+    "Choked": {
+      "Fatal": 31209,
+      "Minor": 31416,
+      "Moderate": 31379,
+      "Severe": 31141
+    },
+    "High": {
+      "Fatal": 31338,
+      "Minor": 31154,
+      "Moderate": 31257,
+      "Severe": 31097
+    },
+    "Low": {
+      "Fatal": 31450,
+      "Minor": 31393,
+      "Moderate": 31299,
+      "Severe": 31329
+    },
+    "Medium": {
+      "Fatal": 31121,
+      "Minor": 31042,
+      "Moderate": 31421,
+      "Severe": 30954
+    }
+  },
+  "visibility_vs_severity": {
+    "High": {
+      "Fatal": 41694,
+      "Minor": 41472,
+      "Moderate": 41631,
+      "Severe": 41861
+    },
+    "Low": {
+      "Fatal": 41793,
+      "Minor": 41871,
+      "Moderate": 42034,
+      "Severe": 41519
+    },
+    "Medium": {
+      "Fatal": 41631,
+      "Minor": 41662,
+      "Moderate": 41691,
+      "Severe": 41141
+    }
+  },
+  "lanes_summary": {
+    "2": 166811,
+    "4": 166727,
+    "6": 166462
+  },
+  "signals_summary": {
+    "0": 250189,
+    "1": 249811
+  },
+  "temp_stats": {
+    "min": 5.0,
+    "max": 45.0,
+    "mean": 25.0
+  }
+}

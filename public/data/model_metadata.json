@@ -1,0 +1,348 @@
+{
+  "project_title": "Road Accident Severity Prediction Using Machine Learning Algorithms",
+  "model_version": "1.0.0",
+  "created_at": "2026-11-03 13:43:09",
+  "best_model_name": "XGBoost",
+  "model_file": "accident_severity_model.pkl",
+  "model_file_size_mb": 0.34,
+  "target_column": "accident_severity",
+  "target_classes": [
+    "Minor",
+    "Moderate",
+    "Severe",
+    "Fatal"
+  ],
+  "target_mapping": {
+    "Minor": 0,
+    "Moderate": 1,
+    "Severe": 2,
+    "Fatal": 3
+  },
+  "input_features": [
+    "city",
+    "state",
+    "month",
+    "hour",
+    "day_of_week",
+    "road_type",
+    "lanes",
+    "traffic_signal",
+    "weather",
+    "visibility",
+    "temperature",
+    "traffic_density",
+    "festival"
+  ],
+  "categorical_features": [
+    "city",
+    "state",
+    "day_of_week",
+    "road_type",
+    "weather",
+    "visibility",
+    "traffic_density",
+    "festival"
+  ],
+  "numerical_features": [
+    "month",
+    "hour",
+    "lanes",
+    "traffic_signal",
+    "temperature"
+  ],
+  "total_dataset_rows": 500000,
+  "train_rows": 400000,
+  "test_rows": 100000,
+  "evaluation_summary": {
+    "Decision Tree": {
+      "training_time_seconds": 3.86,
+      "train_accuracy": 0.2549,
+      "test_accuracy": 0.2516,
+      "train_macro_f1": 0.1774,
+      "macro_precision": 0.252,
+      "macro_recall": 0.2513,
+      "macro_f1": 0.1727,
+      "weighted_f1": 0.1728,
+      "overfitting_gap": 0.0033,
+      "confusion_matrix": [
+        [
+          1044,
+          19206,
+          4316,
+          435
+        ],
+        [
+          1055,
+          19286,
+          4313,
+          417
+        ],
+        [
+          1074,
+          19034,
+          4405,
+          391
+        ],
+        [
+          1050,
+          19142,
+          4403,
+          429
+        ]
+      ],
+      "classification_report": {
+        "Minor": {
+          "precision": 0.24721761780724602,
+          "recall": 0.04175832966681333,
+          "f1-score": 0.07144812482890775,
+          "support": 25001.0
+        },
+        "Moderate": {
+          "precision": 0.25155214691918404,
+          "recall": 0.7692553149056679,
+          "f1-score": 0.37912698178672877,
+          "support": 25071.0
+        },
+        "Severe": {
+          "precision": 0.2526237311464128,
+          "recall": 0.17687921619017025,
+          "f1-score": 0.2080725537894712,
+          "support": 24904.0
+        },
+        "Fatal": {
+          "precision": 0.2565789473684211,
+          "recall": 0.01714354219948849,
+          "f1-score": 0.03213964638897213,
+          "support": 25024.0
+        },
+        "accuracy": 0.25164,
+        "macro avg": {
+          "precision": 0.251993110810316,
+          "recall": 0.251259100740535,
+          "f1-score": 0.17269682669851996,
+          "support": 100000.0
+        },
+        "weighted avg": {
+          "precision": 0.2519932451762745,
+          "recall": 0.25164,
+          "f1-score": 0.1727746852003323,
+          "support": 100000.0
+        }
+      }
+    },
+    "Random Forest": {
+      "training_time_seconds": 5.14,
+      "train_accuracy": 0.2936,
+      "test_accuracy": 0.2487,
+      "train_macro_f1": 0.2836,
+      "macro_precision": 0.2484,
+      "macro_recall": 0.2484,
+      "macro_f1": 0.2376,
+      "weighted_f1": 0.2377,
+      "overfitting_gap": 0.045,
+      "confusion_matrix": [
+        [
+          4931,
+          10410,
+          3070,
+          6590
+        ],
+        [
+          5000,
+          10280,
+          3151,
+          6640
+        ],
+        [
+          5078,
+          10212,
+          3092,
+          6522
+        ],
+        [
+          4955,
+          10353,
+          3154,
+          6562
+        ]
+      ],
+      "classification_report": {
+        "Minor": {
+          "precision": 0.24699459026247245,
+          "recall": 0.19723211071557137,
+          "f1-score": 0.21932614255532082,
+          "support": 25001.0
+        },
+        "Moderate": {
+          "precision": 0.24918191734335232,
+          "recall": 0.4100354991823222,
+          "f1-score": 0.3099840183336851,
+          "support": 25071.0
+        },
+        "Severe": {
+          "precision": 0.24801475896366407,
+          "recall": 0.12415676196594924,
+          "f1-score": 0.1654759037756549,
+          "support": 24904.0
+        },
+        "Fatal": {
+          "precision": 0.24937295736110054,
+          "recall": 0.26222826086956524,
+          "f1-score": 0.2556390977443609,
+          "support": 25024.0
+        },
+        "accuracy": 0.24865,
+        "macro avg": {
+          "precision": 0.24839105598264735,
+          "recall": 0.24841315818335202,
+          "f1-score": 0.23760629060225544,
+          "support": 100000.0
+        },
+        "weighted avg": {
+          "precision": 0.24839220043102533,
+          "recall": 0.24865,
+          "f1-score": 0.23773106903253188,
+          "support": 100000.0
+        }
+      }
+    },
+    "XGBoost": {
+      "training_time_seconds": 6.07,
+      "train_accuracy": 0.3045,
+      "test_accuracy": 0.2518,
+      "train_macro_f1": 0.3023,
+      "macro_precision": 0.2518,
+      "macro_recall": 0.2517,
+      "macro_f1": 0.249,
+      "weighted_f1": 0.2491,
+      "overfitting_gap": 0.0527,
+      "confusion_matrix": [
+        [
+          5979,
+          8528,
+          4870,
+          5624
+        ],
+        [
+          6008,
+          8583,
+          4871,
+          5609
+        ],
+        [
+          5960,
+          8433,
+          4926,
+          5585
+        ],
+        [
+          6071,
+          8464,
+          4797,
+          5692
+        ]
+      ],
+      "classification_report": {
+        "Minor": {
+          "precision": 0.24893829627779165,
+          "recall": 0.2391504339826407,
+          "f1-score": 0.24394622493318918,
+          "support": 25001.0
+        },
+        "Moderate": {
+          "precision": 0.2523817925194072,
+          "recall": 0.34234773243987077,
+          "f1-score": 0.2905600974965724,
+          "support": 25071.0
+        },
+        "Severe": {
+          "precision": 0.2530826140567201,
+          "recall": 0.19779955027304852,
+          "f1-score": 0.22205192931842768,
+          "support": 24904.0
+        },
+        "Fatal": {
+          "precision": 0.2528653931585962,
+          "recall": 0.2274616368286445,
+          "f1-score": 0.23949173223376952,
+          "support": 25024.0
+        },
+        "accuracy": 0.2518,
+        "macro avg": {
+          "precision": 0.2518170240031288,
+          "recall": 0.2516898383810511,
+          "f1-score": 0.2490124959954897,
+          "support": 100000.0
+        },
+        "weighted avg": {
+          "precision": 0.2518164328436439,
+          "recall": 0.2518,
+          "f1-score": 0.24906554129055203,
+          "support": 100000.0
+        }
+      }
+    }
+  },
+  "top_features": [
+    {
+      "feature": "city_Kishangarh",
+      "importance": 0.004681163467466831
+    },
+    {
+      "feature": "city_Dumka",
+      "importance": 0.004403211642056704
+    },
+    {
+      "feature": "city_Tuensang",
+      "importance": 0.004377028904855251
+    },
+    {
+      "feature": "city_Lucknow",
+      "importance": 0.004172971937805414
+    },
+    {
+      "feature": "city_Chitradurga",
+      "importance": 0.003888387233018875
+    },
+    {
+      "feature": "city_North Lakhimpur",
+      "importance": 0.003783291671425104
+    },
+    {
+      "feature": "city_Bairabi",
+      "importance": 0.003692055121064186
+    },
+    {
+      "feature": "state_Uttar Pradesh",
+      "importance": 0.003680621273815632
+    },
+    {
+      "feature": "city_Pathanamthitta",
+      "importance": 0.0035902319941669703
+    },
+    {
+      "feature": "state_Himachal Pradesh",
+      "importance": 0.0034950103145092726
+    },
+    {
+      "feature": "city_Danapur",
+      "importance": 0.003424210473895073
+    },
+    {
+      "feature": "city_Sangli",
+      "importance": 0.0033873661886900663
+    },
+    {
+      "feature": "city_Rewa",
+      "importance": 0.003348052501678467
+    },
+    {
+      "feature": "city_Bomdila",
+      "importance": 0.003289500717073679
+    },
+    {
+      "feature": "city_Mawsynram",
+      "importance": 0.0032481274101883173
+    }
+  ]
+}

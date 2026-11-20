@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'leaflet/dist/leaflet.css';
+
+@layer base {
+  body {
+    @apply bg-[#0B0F19] text-slate-100 font-sans antialiased selection:bg-blue-600 selection:text-white;
+  }
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0B0F19;
+}
+::-webkit-scrollbar-thumb {
+  background: #1E293B;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Glassmorphism card utility */
+.glass-card {
+  background: rgba(30, 41, 59, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(51, 65, 85, 0.6);
+}
+
+.glass-card-hover {
+  transition: all 0.2s ease-in-out;
+}
+.glass-card-hover:hover {
+  border-color: rgba(59, 130, 246, 0.5);
+  box-shadow: 0 4px 20px -2px rgba(37, 99, 235, 0.15);
+  transform: translateY(-2px);
+}
+
+/* Leaflet dark theme customization */
+.leaflet-container {
+  background-color: #0B0F19 !important;
+  font-family: inherit;
+}
+/* Invert OSM tiles to dark theme (no API key needed) */
+.leaflet-tile-pane {
+  filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
+}
+/* Keep markers and popups normal */
+.leaflet-marker-pane,
+.leaflet-shadow-pane,
+.leaflet-popup-pane,
+.leaflet-overlay-pane svg circle {
+  filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(110%);
+}
+.leaflet-popup-content-wrapper {
+  background: #1E293B !important;
+  color: #F8FAFC !important;
+  border: 1px solid #334155 !important;
+  border-radius: 8px !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5) !important;
+}
+.leaflet-popup-tip {
+  background: #1E293B !important;
+}
+

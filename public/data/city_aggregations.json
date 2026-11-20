@@ -1,0 +1,7890 @@
+[
+  {
+    "city": "Karimganj",
+    "state": "Assam",
+    "lat": 26.8938,
+    "lng": 95.0172,
+    "total_accidents": 2422,
+    "severities": {
+      "Minor": 615,
+      "Moderate": 599,
+      "Severe": 608,
+      "Fatal": 600
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "lat": 21.7645,
+    "lng": 72.1519,
+    "total_accidents": 2045,
+    "severities": {
+      "Minor": 523,
+      "Moderate": 495,
+      "Severe": 530,
+      "Fatal": 497
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Kota",
+    "state": "Rajasthan",
+    "lat": 25.2138,
+    "lng": 75.8648,
+    "total_accidents": 2042,
+    "severities": {
+      "Minor": 481,
+      "Moderate": 564,
+      "Severe": 504,
+      "Fatal": 493
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "lat": 26.8467,
+    "lng": 80.9462,
+    "total_accidents": 2042,
+    "severities": {
+      "Minor": 501,
+      "Moderate": 517,
+      "Severe": 501,
+      "Fatal": 523
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Hisar",
+    "state": "Haryana",
+    "lat": 30.4248,
+    "lng": 75.6928,
+    "total_accidents": 2038,
+    "severities": {
+      "Minor": 515,
+      "Moderate": 516,
+      "Severe": 519,
+      "Fatal": 488
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Cuncolim",
+    "state": "Goa",
+    "lat": 15.6085,
+    "lng": 74.0379,
+    "total_accidents": 2025,
+    "severities": {
+      "Minor": 489,
+      "Moderate": 514,
+      "Severe": 515,
+      "Fatal": 507
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "lat": 26.1209,
+    "lng": 85.3647,
+    "total_accidents": 2018,
+    "severities": {
+      "Minor": 524,
+      "Moderate": 494,
+      "Severe": 493,
+      "Fatal": 507
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Sagar",
+    "state": "Madhya Pradesh",
+    "lat": 25.7493,
+    "lng": 78.9632,
+    "total_accidents": 2016,
+    "severities": {
+      "Minor": 513,
+      "Moderate": 534,
+      "Severe": 470,
+      "Fatal": 499
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "lat": 23.2599,
+    "lng": 77.4126,
+    "total_accidents": 2015,
+    "severities": {
+      "Minor": 519,
+      "Moderate": 488,
+      "Severe": 494,
+      "Fatal": 514
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Mapusa",
+    "state": "Goa",
+    "lat": 15.0426,
+    "lng": 74.0989,
+    "total_accidents": 2014,
+    "severities": {
+      "Minor": 494,
+      "Moderate": 508,
+      "Severe": 525,
+      "Fatal": 487
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Changlang",
+    "state": "Arunachal Pradesh",
+    "lat": 28.6254,
+    "lng": 96.423,
+    "total_accidents": 2013,
+    "severities": {
+      "Minor": 527,
+      "Moderate": 511,
+      "Severe": 480,
+      "Fatal": 495
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Diphu",
+    "state": "Assam",
+    "lat": 26.076,
+    "lng": 94.2713,
+    "total_accidents": 2013,
+    "severities": {
+      "Minor": 527,
+      "Moderate": 480,
+      "Severe": 493,
+      "Fatal": 513
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "lat": 16.3067,
+    "lng": 80.4365,
+    "total_accidents": 2012,
+    "severities": {
+      "Minor": 474,
+      "Moderate": 523,
+      "Severe": 519,
+      "Fatal": 496
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Shillong",
+    "state": "Meghalaya",
+    "lat": 25.5788,
+    "lng": 91.8933,
+    "total_accidents": 2012,
+    "severities": {
+      "Minor": 509,
+      "Moderate": 481,
+      "Severe": 500,
+      "Fatal": 522
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Jamnagar",
+    "state": "Gujarat",
+    "lat": 22.4707,
+    "lng": 70.0577,
+    "total_accidents": 2010,
+    "severities": {
+      "Minor": 527,
+      "Moderate": 474,
+      "Severe": 494,
+      "Fatal": 515
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "lat": 17.4788,
+    "lng": 76.565,
+    "total_accidents": 2010,
+    "severities": {
+      "Minor": 468,
+      "Moderate": 531,
+      "Severe": 512,
+      "Fatal": 499
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "lat": 23.7957,
+    "lng": 86.4304,
+    "total_accidents": 2009,
+    "severities": {
+      "Minor": 508,
+      "Moderate": 538,
+      "Severe": 469,
+      "Fatal": 494
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Tawang",
+    "state": "Arunachal Pradesh",
+    "lat": 27.1568,
+    "lng": 94.4406,
+    "total_accidents": 2007,
+    "severities": {
+      "Minor": 523,
+      "Moderate": 517,
+      "Severe": 486,
+      "Fatal": 481
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Guwahati",
+    "state": "Assam",
+    "lat": 26.1445,
+    "lng": 91.7362,
+    "total_accidents": 2006,
+    "severities": {
+      "Minor": 537,
+      "Moderate": 488,
+      "Severe": 509,
+      "Fatal": 472
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Hailakandi",
+    "state": "Assam",
+    "lat": 27.1765,
+    "lng": 93.6312,
+    "total_accidents": 2006,
+    "severities": {
+      "Minor": 495,
+      "Moderate": 509,
+      "Severe": 475,
+      "Fatal": 527
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "lat": 22.7196,
+    "lng": 75.8577,
+    "total_accidents": 2001,
+    "severities": {
+      "Minor": 514,
+      "Moderate": 502,
+      "Severe": 487,
+      "Fatal": 498
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Ziro",
+    "state": "Arunachal Pradesh",
+    "lat": 27.6115,
+    "lng": 92.8263,
+    "total_accidents": 2000,
+    "severities": {
+      "Minor": 484,
+      "Moderate": 477,
+      "Severe": 528,
+      "Fatal": 511
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "lat": 21.2514,
+    "lng": 81.6296,
+    "total_accidents": 2000,
+    "severities": {
+      "Minor": 499,
+      "Moderate": 486,
+      "Severe": 503,
+      "Fatal": 512
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Kalaburagi",
+    "state": "Karnataka",
+    "lat": 13.5154,
+    "lng": 75.9872,
+    "total_accidents": 2000,
+    "severities": {
+      "Minor": 535,
+      "Moderate": 498,
+      "Severe": 467,
+      "Fatal": 500
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Dirang",
+    "state": "Arunachal Pradesh",
+    "lat": 27.1684,
+    "lng": 93.3455,
+    "total_accidents": 1998,
+    "severities": {
+      "Minor": 505,
+      "Moderate": 458,
+      "Severe": 540,
+      "Fatal": 495
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Hajipur",
+    "state": "Bihar",
+    "lat": 25.3138,
+    "lng": 84.36,
+    "total_accidents": 1997,
+    "severities": {
+      "Minor": 513,
+      "Moderate": 516,
+      "Severe": 470,
+      "Fatal": 498
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Silchar",
+    "state": "Assam",
+    "lat": 24.8333,
+    "lng": 92.7789,
+    "total_accidents": 1996,
+    "severities": {
+      "Minor": 499,
+      "Moderate": 503,
+      "Severe": 521,
+      "Fatal": 473
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Machilipatnam",
+    "state": "Andhra Pradesh",
+    "lat": 18.1692,
+    "lng": 80.3224,
+    "total_accidents": 1988,
+    "severities": {
+      "Minor": 494,
+      "Moderate": 513,
+      "Severe": 494,
+      "Fatal": 487
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Danapur",
+    "state": "Bihar",
+    "lat": 27.0622,
+    "lng": 84.824,
+    "total_accidents": 1986,
+    "severities": {
+      "Minor": 496,
+      "Moderate": 495,
+      "Severe": 488,
+      "Fatal": 507
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Kollam",
+    "state": "Kerala",
+    "lat": 11.6732,
+    "lng": 75.898,
+    "total_accidents": 1985,
+    "severities": {
+      "Minor": 501,
+      "Moderate": 480,
+      "Severe": 530,
+      "Fatal": 474
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "lat": 21.9768,
+    "lng": 69.8733,
+    "total_accidents": 1984,
+    "severities": {
+      "Minor": 510,
+      "Moderate": 481,
+      "Severe": 536,
+      "Fatal": 457
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Patna",
+    "state": "Bihar",
+    "lat": 25.5941,
+    "lng": 85.1376,
+    "total_accidents": 1983,
+    "severities": {
+      "Minor": 488,
+      "Moderate": 494,
+      "Severe": 489,
+      "Fatal": 512
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Vasco da Gama",
+    "state": "Goa",
+    "lat": 15.4004,
+    "lng": 74.0485,
+    "total_accidents": 1983,
+    "severities": {
+      "Minor": 514,
+      "Moderate": 459,
+      "Severe": 495,
+      "Fatal": 515
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "lat": 22.3039,
+    "lng": 70.8022,
+    "total_accidents": 1982,
+    "severities": {
+      "Minor": 535,
+      "Moderate": 510,
+      "Severe": 441,
+      "Fatal": 496
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "lat": 30.3165,
+    "lng": 78.0322,
+    "total_accidents": 1982,
+    "severities": {
+      "Minor": 497,
+      "Moderate": 477,
+      "Severe": 461,
+      "Fatal": 547
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Bhagalpur",
+    "state": "Bihar",
+    "lat": 25.2425,
+    "lng": 86.9842,
+    "total_accidents": 1981,
+    "severities": {
+      "Minor": 506,
+      "Moderate": 526,
+      "Severe": 488,
+      "Fatal": 461
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Ponda",
+    "state": "Goa",
+    "lat": 15.7042,
+    "lng": 73.8138,
+    "total_accidents": 1981,
+    "severities": {
+      "Minor": 469,
+      "Moderate": 515,
+      "Severe": 491,
+      "Fatal": 506
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Panipat",
+    "state": "Haryana",
+    "lat": 29.3909,
+    "lng": 76.9635,
+    "total_accidents": 1980,
+    "severities": {
+      "Minor": 520,
+      "Moderate": 474,
+      "Severe": 468,
+      "Fatal": 518
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "total_accidents": 1980,
+    "severities": {
+      "Minor": 499,
+      "Moderate": 523,
+      "Severe": 489,
+      "Fatal": 469
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Anantapur",
+    "state": "Andhra Pradesh",
+    "lat": 18.2472,
+    "lng": 81.5,
+    "total_accidents": 1978,
+    "severities": {
+      "Minor": 503,
+      "Moderate": 502,
+      "Severe": 451,
+      "Fatal": 522
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Adoni",
+    "state": "Andhra Pradesh",
+    "lat": 16.3076,
+    "lng": 78.972,
+    "total_accidents": 1976,
+    "severities": {
+      "Minor": 510,
+      "Moderate": 494,
+      "Severe": 479,
+      "Fatal": 493
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "lat": 22.8046,
+    "lng": 86.2029,
+    "total_accidents": 1975,
+    "severities": {
+      "Minor": 495,
+      "Moderate": 478,
+      "Severe": 497,
+      "Fatal": 505
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Gangtok",
+    "state": "Sikkim",
+    "lat": 27.3314,
+    "lng": 88.6138,
+    "total_accidents": 1975,
+    "severities": {
+      "Minor": 499,
+      "Moderate": 494,
+      "Severe": 464,
+      "Fatal": 518
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Curchorem",
+    "state": "Goa",
+    "lat": 15.507,
+    "lng": 74.035,
+    "total_accidents": 1971,
+    "severities": {
+      "Minor": 478,
+      "Moderate": 487,
+      "Severe": 493,
+      "Fatal": 513
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "lat": 19.2183,
+    "lng": 72.9781,
+    "total_accidents": 1970,
+    "severities": {
+      "Minor": 470,
+      "Moderate": 479,
+      "Severe": 506,
+      "Fatal": 515
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Tura",
+    "state": "Meghalaya",
+    "lat": 25.8703,
+    "lng": 92.3056,
+    "total_accidents": 1970,
+    "severities": {
+      "Minor": 502,
+      "Moderate": 480,
+      "Severe": 500,
+      "Fatal": 488
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "North Lakhimpur",
+    "state": "Assam",
+    "lat": 26.0274,
+    "lng": 94.0243,
+    "total_accidents": 1969,
+    "severities": {
+      "Minor": 515,
+      "Moderate": 467,
+      "Severe": 482,
+      "Fatal": 505
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Gurugram",
+    "state": "Haryana",
+    "lat": 28.4595,
+    "lng": 77.0266,
+    "total_accidents": 1969,
+    "severities": {
+      "Minor": 492,
+      "Moderate": 490,
+      "Severe": 494,
+      "Fatal": 493
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Hazaribagh",
+    "state": "Jharkhand",
+    "lat": 24.1727,
+    "lng": 85.2614,
+    "total_accidents": 1969,
+    "severities": {
+      "Minor": 482,
+      "Moderate": 529,
+      "Severe": 437,
+      "Fatal": 521
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Pasighat",
+    "state": "Arunachal Pradesh",
+    "lat": 28.9223,
+    "lng": 95.2146,
+    "total_accidents": 1967,
+    "severities": {
+      "Minor": 498,
+      "Moderate": 504,
+      "Severe": 521,
+      "Fatal": 444
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Vizianagaram",
+    "state": "Andhra Pradesh",
+    "lat": 17.0512,
+    "lng": 81.5384,
+    "total_accidents": 1965,
+    "severities": {
+      "Minor": 482,
+      "Moderate": 514,
+      "Severe": 485,
+      "Fatal": 484
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Bokaro Steel City",
+    "state": "Jharkhand",
+    "lat": 24.8222,
+    "lng": 86.1005,
+    "total_accidents": 1965,
+    "severities": {
+      "Minor": 493,
+      "Moderate": 499,
+      "Severe": 494,
+      "Fatal": 479
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Dharmanagar",
+    "state": "Tripura",
+    "lat": 23.7858,
+    "lng": 92.0072,
+    "total_accidents": 1964,
+    "severities": {
+      "Minor": 486,
+      "Moderate": 500,
+      "Severe": 499,
+      "Fatal": 479
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Surat",
+    "state": "Gujarat",
+    "lat": 21.1702,
+    "lng": 72.8311,
+    "total_accidents": 1963,
+    "severities": {
+      "Minor": 507,
+      "Moderate": 511,
+      "Severe": 456,
+      "Fatal": 489
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "lat": 28.4089,
+    "lng": 77.3178,
+    "total_accidents": 1963,
+    "severities": {
+      "Minor": 486,
+      "Moderate": 508,
+      "Severe": 481,
+      "Fatal": 488
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "total_accidents": 1962,
+    "severities": {
+      "Minor": 485,
+      "Moderate": 518,
+      "Severe": 502,
+      "Fatal": 457
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "lat": 23.1815,
+    "lng": 79.9864,
+    "total_accidents": 1959,
+    "severities": {
+      "Minor": 475,
+      "Moderate": 502,
+      "Severe": 480,
+      "Fatal": 502
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Basar",
+    "state": "Arunachal Pradesh",
+    "lat": 28.6091,
+    "lng": 94.2706,
+    "total_accidents": 1958,
+    "severities": {
+      "Minor": 467,
+      "Moderate": 464,
+      "Severe": 501,
+      "Fatal": 526
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Bicholim",
+    "state": "Goa",
+    "lat": 15.1009,
+    "lng": 73.8656,
+    "total_accidents": 1958,
+    "severities": {
+      "Minor": 493,
+      "Moderate": 475,
+      "Severe": 494,
+      "Fatal": 496
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Aalo",
+    "state": "Arunachal Pradesh",
+    "lat": 27.651,
+    "lng": 96.6401,
+    "total_accidents": 1957,
+    "severities": {
+      "Minor": 473,
+      "Moderate": 524,
+      "Severe": 492,
+      "Fatal": 468
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Solan",
+    "state": "Himachal Pradesh",
+    "lat": 30.9958,
+    "lng": 76.9192,
+    "total_accidents": 1957,
+    "severities": {
+      "Minor": 488,
+      "Moderate": 470,
+      "Severe": 477,
+      "Fatal": 522
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "lat": 11.2588,
+    "lng": 75.7804,
+    "total_accidents": 1957,
+    "severities": {
+      "Minor": 450,
+      "Moderate": 493,
+      "Severe": 500,
+      "Fatal": 514
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "total_accidents": 1957,
+    "severities": {
+      "Minor": 480,
+      "Moderate": 514,
+      "Severe": 481,
+      "Fatal": 482
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Jalandhar",
+    "state": "Punjab",
+    "lat": 31.326,
+    "lng": 75.5762,
+    "total_accidents": 1957,
+    "severities": {
+      "Minor": 506,
+      "Moderate": 464,
+      "Severe": 487,
+      "Fatal": 500
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "lat": 16.5062,
+    "lng": 80.648,
+    "total_accidents": 1955,
+    "severities": {
+      "Minor": 457,
+      "Moderate": 493,
+      "Severe": 495,
+      "Fatal": 510
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Barpeta",
+    "state": "Assam",
+    "lat": 26.0851,
+    "lng": 92.7542,
+    "total_accidents": 1954,
+    "severities": {
+      "Minor": 486,
+      "Moderate": 501,
+      "Severe": 494,
+      "Fatal": 473
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Khonsa",
+    "state": "Arunachal Pradesh",
+    "lat": 27.412,
+    "lng": 96.2861,
+    "total_accidents": 1953,
+    "severities": {
+      "Minor": 495,
+      "Moderate": 490,
+      "Severe": 483,
+      "Fatal": 485
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Naharlagun",
+    "state": "Arunachal Pradesh",
+    "lat": 27.3447,
+    "lng": 96.1209,
+    "total_accidents": 1953,
+    "severities": {
+      "Minor": 493,
+      "Moderate": 495,
+      "Severe": 492,
+      "Fatal": 473
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Namsai",
+    "state": "Arunachal Pradesh",
+    "lat": 27.1359,
+    "lng": 96.4513,
+    "total_accidents": 1953,
+    "severities": {
+      "Minor": 457,
+      "Moderate": 505,
+      "Severe": 491,
+      "Fatal": 500
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Korba",
+    "state": "Chhattisgarh",
+    "lat": 22.5578,
+    "lng": 83.0829,
+    "total_accidents": 1953,
+    "severities": {
+      "Minor": 512,
+      "Moderate": 472,
+      "Severe": 455,
+      "Fatal": 514
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Kurnool",
+    "state": "Andhra Pradesh",
+    "lat": 14.8048,
+    "lng": 79.7784,
+    "total_accidents": 1952,
+    "severities": {
+      "Minor": 496,
+      "Moderate": 498,
+      "Severe": 490,
+      "Fatal": 468
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Gandhidham",
+    "state": "Gujarat",
+    "lat": 21.7854,
+    "lng": 73.2148,
+    "total_accidents": 1952,
+    "severities": {
+      "Minor": 481,
+      "Moderate": 485,
+      "Severe": 520,
+      "Fatal": 466
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Rajnandgaon",
+    "state": "Chhattisgarh",
+    "lat": 20.4762,
+    "lng": 81.255,
+    "total_accidents": 1950,
+    "severities": {
+      "Minor": 449,
+      "Moderate": 519,
+      "Severe": 495,
+      "Fatal": 487
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Una",
+    "state": "Himachal Pradesh",
+    "lat": 32.024,
+    "lng": 77.9528,
+    "total_accidents": 1949,
+    "severities": {
+      "Minor": 482,
+      "Moderate": 483,
+      "Severe": 512,
+      "Fatal": 472
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "lat": 26.2183,
+    "lng": 78.1828,
+    "total_accidents": 1949,
+    "severities": {
+      "Minor": 482,
+      "Moderate": 503,
+      "Severe": 485,
+      "Fatal": 479
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Cuttack",
+    "state": "Odisha",
+    "lat": 20.4625,
+    "lng": 85.8828,
+    "total_accidents": 1949,
+    "severities": {
+      "Minor": 466,
+      "Moderate": 454,
+      "Severe": 516,
+      "Fatal": 513
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Sasaram",
+    "state": "Bihar",
+    "lat": 24.8734,
+    "lng": 85.432,
+    "total_accidents": 1947,
+    "severities": {
+      "Minor": 501,
+      "Moderate": 458,
+      "Severe": 487,
+      "Fatal": 501
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "lat": 21.1458,
+    "lng": 79.0882,
+    "total_accidents": 1947,
+    "severities": {
+      "Minor": 455,
+      "Moderate": 508,
+      "Severe": 482,
+      "Fatal": 502
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Margao",
+    "state": "Goa",
+    "lat": 15.2832,
+    "lng": 73.9862,
+    "total_accidents": 1946,
+    "severities": {
+      "Minor": 457,
+      "Moderate": 521,
+      "Severe": 508,
+      "Fatal": 460
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Begusarai",
+    "state": "Bihar",
+    "lat": 24.9989,
+    "lng": 85.468,
+    "total_accidents": 1945,
+    "severities": {
+      "Minor": 454,
+      "Moderate": 495,
+      "Severe": 474,
+      "Fatal": 522
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "lat": 19.1789,
+    "lng": 75.7009,
+    "total_accidents": 1945,
+    "severities": {
+      "Minor": 503,
+      "Moderate": 477,
+      "Severe": 457,
+      "Fatal": 508
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "lat": 30.901,
+    "lng": 75.8573,
+    "total_accidents": 1945,
+    "severities": {
+      "Minor": 501,
+      "Moderate": 493,
+      "Severe": 484,
+      "Fatal": 467
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Chhapra",
+    "state": "Bihar",
+    "lat": 25.8283,
+    "lng": 85.296,
+    "total_accidents": 1944,
+    "severities": {
+      "Minor": 470,
+      "Moderate": 489,
+      "Severe": 473,
+      "Fatal": 512
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Thrissur",
+    "state": "Kerala",
+    "lat": 12.062,
+    "lng": 75.75,
+    "total_accidents": 1944,
+    "severities": {
+      "Minor": 462,
+      "Moderate": 467,
+      "Severe": 472,
+      "Fatal": 543
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "lat": 22.5958,
+    "lng": 88.2636,
+    "total_accidents": 1944,
+    "severities": {
+      "Minor": 451,
+      "Moderate": 540,
+      "Severe": 487,
+      "Fatal": 466
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Lunglei",
+    "state": "Mizoram",
+    "lat": 24.1901,
+    "lng": 92.7606,
+    "total_accidents": 1943,
+    "severities": {
+      "Minor": 461,
+      "Moderate": 506,
+      "Severe": 472,
+      "Fatal": 504
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "total_accidents": 1942,
+    "severities": {
+      "Minor": 448,
+      "Moderate": 530,
+      "Severe": 477,
+      "Fatal": 487
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Dhubri",
+    "state": "Assam",
+    "lat": 25.319,
+    "lng": 93.5304,
+    "total_accidents": 1939,
+    "severities": {
+      "Minor": 480,
+      "Moderate": 493,
+      "Severe": 492,
+      "Fatal": 474
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Arrah",
+    "state": "Bihar",
+    "lat": 25.9666,
+    "lng": 87.232,
+    "total_accidents": 1939,
+    "severities": {
+      "Minor": 493,
+      "Moderate": 490,
+      "Severe": 463,
+      "Fatal": 493
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Sivasagar",
+    "state": "Assam",
+    "lat": 25.5562,
+    "lng": 92.8752,
+    "total_accidents": 1938,
+    "severities": {
+      "Minor": 461,
+      "Moderate": 470,
+      "Severe": 508,
+      "Fatal": 499
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Alappuzha",
+    "state": "Kerala",
+    "lat": 11.6696,
+    "lng": 75.322,
+    "total_accidents": 1937,
+    "severities": {
+      "Minor": 480,
+      "Moderate": 479,
+      "Severe": 481,
+      "Fatal": 497
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Rohtak",
+    "state": "Haryana",
+    "lat": 28.8461,
+    "lng": 76.279,
+    "total_accidents": 1934,
+    "severities": {
+      "Minor": 450,
+      "Moderate": 494,
+      "Severe": 503,
+      "Fatal": 487
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Eluru",
+    "state": "Andhra Pradesh",
+    "lat": 17.9144,
+    "lng": 79.644,
+    "total_accidents": 1933,
+    "severities": {
+      "Minor": 496,
+      "Moderate": 476,
+      "Severe": 497,
+      "Fatal": 464
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Ujjain",
+    "state": "Madhya Pradesh",
+    "lat": 23.1765,
+    "lng": 75.7885,
+    "total_accidents": 1933,
+    "severities": {
+      "Minor": 497,
+      "Moderate": 470,
+      "Severe": 490,
+      "Fatal": 476
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "total_accidents": 1932,
+    "severities": {
+      "Minor": 504,
+      "Moderate": 477,
+      "Severe": 438,
+      "Fatal": 513
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Imphal",
+    "state": "Manipur",
+    "lat": 24.817,
+    "lng": 93.9368,
+    "total_accidents": 1931,
+    "severities": {
+      "Minor": 498,
+      "Moderate": 520,
+      "Severe": 460,
+      "Fatal": 453
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Hindupur",
+    "state": "Andhra Pradesh",
+    "lat": 14.8308,
+    "lng": 80.924,
+    "total_accidents": 1930,
+    "severities": {
+      "Minor": 475,
+      "Moderate": 462,
+      "Severe": 489,
+      "Fatal": 504
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Katihar",
+    "state": "Bihar",
+    "lat": 24.9733,
+    "lng": 87.532,
+    "total_accidents": 1930,
+    "severities": {
+      "Minor": 507,
+      "Moderate": 490,
+      "Severe": 480,
+      "Fatal": 453
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Rourkela",
+    "state": "Odisha",
+    "lat": 22.2604,
+    "lng": 84.8536,
+    "total_accidents": 1930,
+    "severities": {
+      "Minor": 474,
+      "Moderate": 465,
+      "Severe": 478,
+      "Fatal": 513
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "lat": 28.6692,
+    "lng": 77.4538,
+    "total_accidents": 1930,
+    "severities": {
+      "Minor": 476,
+      "Moderate": 500,
+      "Severe": 459,
+      "Fatal": 495
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Goalpara",
+    "state": "Assam",
+    "lat": 27.3194,
+    "lng": 92.7895,
+    "total_accidents": 1929,
+    "severities": {
+      "Minor": 481,
+      "Moderate": 489,
+      "Severe": 492,
+      "Fatal": 467
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "lat": 17.5671,
+    "lng": 77.1722,
+    "total_accidents": 1929,
+    "severities": {
+      "Minor": 497,
+      "Moderate": 467,
+      "Severe": 482,
+      "Fatal": 483
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Mangaluru",
+    "state": "Karnataka",
+    "lat": 15.5854,
+    "lng": 75.3211,
+    "total_accidents": 1929,
+    "severities": {
+      "Minor": 528,
+      "Moderate": 461,
+      "Severe": 467,
+      "Fatal": 473
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Tirupati",
+    "state": "Andhra Pradesh",
+    "lat": 17.9612,
+    "lng": 83.0872,
+    "total_accidents": 1928,
+    "severities": {
+      "Minor": 483,
+      "Moderate": 482,
+      "Severe": 476,
+      "Fatal": 487
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Panaji",
+    "state": "Goa",
+    "lat": 15.4909,
+    "lng": 73.8278,
+    "total_accidents": 1928,
+    "severities": {
+      "Minor": 501,
+      "Moderate": 481,
+      "Severe": 435,
+      "Fatal": 511
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Ambala",
+    "state": "Haryana",
+    "lat": 28.2653,
+    "lng": 76.7066,
+    "total_accidents": 1928,
+    "severities": {
+      "Minor": 462,
+      "Moderate": 487,
+      "Severe": 494,
+      "Fatal": 485
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Thoubal",
+    "state": "Manipur",
+    "lat": 24.2013,
+    "lng": 94.535,
+    "total_accidents": 1928,
+    "severities": {
+      "Minor": 505,
+      "Moderate": 494,
+      "Severe": 460,
+      "Fatal": 469
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "lat": 27.0844,
+    "lng": 93.6053,
+    "total_accidents": 1927,
+    "severities": {
+      "Minor": 507,
+      "Moderate": 459,
+      "Severe": 491,
+      "Fatal": 470
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Tezpur",
+    "state": "Assam",
+    "lat": 26.3314,
+    "lng": 95.1734,
+    "total_accidents": 1927,
+    "severities": {
+      "Minor": 454,
+      "Moderate": 463,
+      "Severe": 529,
+      "Fatal": 481
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Bhilai",
+    "state": "Chhattisgarh",
+    "lat": 21.2167,
+    "lng": 81.4333,
+    "total_accidents": 1927,
+    "severities": {
+      "Minor": 509,
+      "Moderate": 460,
+      "Severe": 489,
+      "Fatal": 469
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "lat": 19.9975,
+    "lng": 73.7898,
+    "total_accidents": 1927,
+    "severities": {
+      "Minor": 437,
+      "Moderate": 521,
+      "Severe": 498,
+      "Fatal": 471
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Purnia",
+    "state": "Bihar",
+    "lat": 26.3813,
+    "lng": 86.776,
+    "total_accidents": 1924,
+    "severities": {
+      "Minor": 440,
+      "Moderate": 536,
+      "Severe": 472,
+      "Fatal": 476
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "total_accidents": 1924,
+    "severities": {
+      "Minor": 474,
+      "Moderate": 489,
+      "Severe": 474,
+      "Fatal": 487
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "lat": 15.5484,
+    "lng": 82.0248,
+    "total_accidents": 1923,
+    "severities": {
+      "Minor": 474,
+      "Moderate": 495,
+      "Severe": 463,
+      "Fatal": 491
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Proddatur",
+    "state": "Andhra Pradesh",
+    "lat": 15.5796,
+    "lng": 83.8296,
+    "total_accidents": 1921,
+    "severities": {
+      "Minor": 494,
+      "Moderate": 483,
+      "Severe": 460,
+      "Fatal": 484
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Tinsukia",
+    "state": "Assam",
+    "lat": 26.9789,
+    "lng": 91.3531,
+    "total_accidents": 1921,
+    "severities": {
+      "Minor": 476,
+      "Moderate": 480,
+      "Severe": 504,
+      "Fatal": 461
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Raigarh",
+    "state": "Chhattisgarh",
+    "lat": 21.4792,
+    "lng": 83.4491,
+    "total_accidents": 1921,
+    "severities": {
+      "Minor": 521,
+      "Moderate": 486,
+      "Severe": 467,
+      "Fatal": 447
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Mandi",
+    "state": "Himachal Pradesh",
+    "lat": 32.4854,
+    "lng": 76.1386,
+    "total_accidents": 1921,
+    "severities": {
+      "Minor": 469,
+      "Moderate": 518,
+      "Severe": 464,
+      "Fatal": 470
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Deoghar",
+    "state": "Jharkhand",
+    "lat": 23.8533,
+    "lng": 86.5053,
+    "total_accidents": 1921,
+    "severities": {
+      "Minor": 502,
+      "Moderate": 440,
+      "Severe": 468,
+      "Fatal": 511
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Tezu",
+    "state": "Arunachal Pradesh",
+    "lat": 28.985,
+    "lng": 93.7562,
+    "total_accidents": 1920,
+    "severities": {
+      "Minor": 476,
+      "Moderate": 476,
+      "Severe": 478,
+      "Fatal": 490
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "lat": 20.2961,
+    "lng": 85.8245,
+    "total_accidents": 1919,
+    "severities": {
+      "Minor": 477,
+      "Moderate": 462,
+      "Severe": 473,
+      "Fatal": 507
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Dimapur",
+    "state": "Nagaland",
+    "lat": 26.4787,
+    "lng": 94.5555,
+    "total_accidents": 1918,
+    "severities": {
+      "Minor": 484,
+      "Moderate": 466,
+      "Severe": 490,
+      "Fatal": 478
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "lat": 26.4499,
+    "lng": 80.3319,
+    "total_accidents": 1918,
+    "severities": {
+      "Minor": 476,
+      "Moderate": 480,
+      "Severe": 477,
+      "Fatal": 485
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Bomdila",
+    "state": "Arunachal Pradesh",
+    "lat": 27.2844,
+    "lng": 96.7817,
+    "total_accidents": 1917,
+    "severities": {
+      "Minor": 483,
+      "Moderate": 483,
+      "Severe": 488,
+      "Fatal": 463
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Munger",
+    "state": "Bihar",
+    "lat": 26.7141,
+    "lng": 84.056,
+    "total_accidents": 1917,
+    "severities": {
+      "Minor": 498,
+      "Moderate": 416,
+      "Severe": 510,
+      "Fatal": 493
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Junagadh",
+    "state": "Gujarat",
+    "lat": 23.585,
+    "lng": 70.8006,
+    "total_accidents": 1917,
+    "severities": {
+      "Minor": 492,
+      "Moderate": 453,
+      "Severe": 482,
+      "Fatal": 490
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Nahan",
+    "state": "Himachal Pradesh",
+    "lat": 31.1325,
+    "lng": 77.4387,
+    "total_accidents": 1916,
+    "severities": {
+      "Minor": 475,
+      "Moderate": 478,
+      "Severe": 504,
+      "Fatal": 459
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Belagavi",
+    "state": "Karnataka",
+    "lat": 16.143,
+    "lng": 75.483,
+    "total_accidents": 1916,
+    "severities": {
+      "Minor": 481,
+      "Moderate": 478,
+      "Severe": 480,
+      "Fatal": 477
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Karnal",
+    "state": "Haryana",
+    "lat": 30.0024,
+    "lng": 76.1818,
+    "total_accidents": 1915,
+    "severities": {
+      "Minor": 476,
+      "Moderate": 481,
+      "Severe": 469,
+      "Fatal": 489
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Tenali",
+    "state": "Andhra Pradesh",
+    "lat": 14.2328,
+    "lng": 78.588,
+    "total_accidents": 1914,
+    "severities": {
+      "Minor": 503,
+      "Moderate": 457,
+      "Severe": 454,
+      "Fatal": 500
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Saharsa",
+    "state": "Bihar",
+    "lat": 26.6834,
+    "lng": 85.132,
+    "total_accidents": 1914,
+    "severities": {
+      "Minor": 470,
+      "Moderate": 476,
+      "Severe": 473,
+      "Fatal": 495
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "lat": 32.219,
+    "lng": 76.3234,
+    "total_accidents": 1914,
+    "severities": {
+      "Minor": 476,
+      "Moderate": 477,
+      "Severe": 464,
+      "Fatal": 497
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "lat": 16.4079,
+    "lng": 77.3635,
+    "total_accidents": 1914,
+    "severities": {
+      "Minor": 471,
+      "Moderate": 480,
+      "Severe": 493,
+      "Fatal": 470
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Seppa",
+    "state": "Arunachal Pradesh",
+    "lat": 28.3122,
+    "lng": 94.3934,
+    "total_accidents": 1913,
+    "severities": {
+      "Minor": 485,
+      "Moderate": 459,
+      "Severe": 500,
+      "Fatal": 469
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Nagaon",
+    "state": "Assam",
+    "lat": 25.6899,
+    "lng": 93.102,
+    "total_accidents": 1913,
+    "severities": {
+      "Minor": 501,
+      "Moderate": 477,
+      "Severe": 454,
+      "Fatal": 481
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "lat": 11.0168,
+    "lng": 76.9558,
+    "total_accidents": 1912,
+    "severities": {
+      "Minor": 480,
+      "Moderate": 470,
+      "Severe": 481,
+      "Fatal": 481
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "lat": 9.9252,
+    "lng": 78.1198,
+    "total_accidents": 1911,
+    "severities": {
+      "Minor": 459,
+      "Moderate": 460,
+      "Severe": 508,
+      "Fatal": 484
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Anand",
+    "state": "Gujarat",
+    "lat": 21.5058,
+    "lng": 73.623,
+    "total_accidents": 1910,
+    "severities": {
+      "Minor": 474,
+      "Moderate": 480,
+      "Severe": 468,
+      "Fatal": 488
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Ambikapur",
+    "state": "Chhattisgarh",
+    "lat": 21.5598,
+    "lng": 82.5554,
+    "total_accidents": 1908,
+    "severities": {
+      "Minor": 490,
+      "Moderate": 441,
+      "Severe": 489,
+      "Fatal": 488
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Darbhanga",
+    "state": "Bihar",
+    "lat": 26.8574,
+    "lng": 87.26,
+    "total_accidents": 1907,
+    "severities": {
+      "Minor": 488,
+      "Moderate": 503,
+      "Severe": 463,
+      "Fatal": 453
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Namchi",
+    "state": "Sikkim",
+    "lat": 27.3496,
+    "lng": 88.6768,
+    "total_accidents": 1906,
+    "severities": {
+      "Minor": 494,
+      "Moderate": 436,
+      "Severe": 489,
+      "Fatal": 487
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "lat": 9.9312,
+    "lng": 76.2673,
+    "total_accidents": 1905,
+    "severities": {
+      "Minor": 462,
+      "Moderate": 475,
+      "Severe": 497,
+      "Fatal": 471
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Lumding",
+    "state": "Assam",
+    "lat": 25.7082,
+    "lng": 95.2642,
+    "total_accidents": 1902,
+    "severities": {
+      "Minor": 467,
+      "Moderate": 446,
+      "Severe": 510,
+      "Fatal": 479
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "total_accidents": 1902,
+    "severities": {
+      "Minor": 501,
+      "Moderate": 477,
+      "Severe": 452,
+      "Fatal": 472
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "lat": 22.0797,
+    "lng": 82.1409,
+    "total_accidents": 1901,
+    "severities": {
+      "Minor": 494,
+      "Moderate": 485,
+      "Severe": 488,
+      "Fatal": 434
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Mahasamund",
+    "state": "Chhattisgarh",
+    "lat": 20.6224,
+    "lng": 81.7826,
+    "total_accidents": 1901,
+    "severities": {
+      "Minor": 475,
+      "Moderate": 495,
+      "Severe": 479,
+      "Fatal": 452
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "lat": 31.1048,
+    "lng": 77.1734,
+    "total_accidents": 1898,
+    "severities": {
+      "Minor": 456,
+      "Moderate": 460,
+      "Severe": 487,
+      "Fatal": 495
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Jorhat",
+    "state": "Assam",
+    "lat": 26.7083,
+    "lng": 92.7442,
+    "total_accidents": 1896,
+    "severities": {
+      "Minor": 491,
+      "Moderate": 475,
+      "Severe": 459,
+      "Fatal": 471
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Kakinada",
+    "state": "Andhra Pradesh",
+    "lat": 15.434,
+    "lng": 83.42,
+    "total_accidents": 1893,
+    "severities": {
+      "Minor": 491,
+      "Moderate": 465,
+      "Severe": 474,
+      "Fatal": 463
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Jagdalpur",
+    "state": "Chhattisgarh",
+    "lat": 21.333,
+    "lng": 81.46,
+    "total_accidents": 1893,
+    "severities": {
+      "Minor": 458,
+      "Moderate": 496,
+      "Severe": 486,
+      "Fatal": 453
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "lat": 17.6868,
+    "lng": 83.2185,
+    "total_accidents": 1892,
+    "severities": {
+      "Minor": 481,
+      "Moderate": 468,
+      "Severe": 465,
+      "Fatal": 478
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Agartala",
+    "state": "Tripura",
+    "lat": 23.8315,
+    "lng": 91.2868,
+    "total_accidents": 1891,
+    "severities": {
+      "Minor": 444,
+      "Moderate": 475,
+      "Severe": 491,
+      "Fatal": 481
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "lat": 18.6725,
+    "lng": 78.0941,
+    "total_accidents": 1890,
+    "severities": {
+      "Minor": 495,
+      "Moderate": 484,
+      "Severe": 459,
+      "Fatal": 452
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "lat": 23.3441,
+    "lng": 85.3096,
+    "total_accidents": 1888,
+    "severities": {
+      "Minor": 456,
+      "Moderate": 485,
+      "Severe": 452,
+      "Fatal": 495
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Nandyal",
+    "state": "Andhra Pradesh",
+    "lat": 17.4828,
+    "lng": 83.6824,
+    "total_accidents": 1886,
+    "severities": {
+      "Minor": 482,
+      "Moderate": 438,
+      "Severe": 496,
+      "Fatal": 470
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Gaya",
+    "state": "Bihar",
+    "lat": 24.7914,
+    "lng": 85.0002,
+    "total_accidents": 1886,
+    "severities": {
+      "Minor": 490,
+      "Moderate": 473,
+      "Severe": 471,
+      "Fatal": 452
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Chittoor",
+    "state": "Andhra Pradesh",
+    "lat": 13.7856,
+    "lng": 82.972,
+    "total_accidents": 1885,
+    "severities": {
+      "Minor": 461,
+      "Moderate": 514,
+      "Severe": 463,
+      "Fatal": 447
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Dibrugarh",
+    "state": "Assam",
+    "lat": 27.4728,
+    "lng": 94.912,
+    "total_accidents": 1885,
+    "severities": {
+      "Minor": 499,
+      "Moderate": 488,
+      "Severe": 453,
+      "Fatal": 445
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "lat": 29.9457,
+    "lng": 78.1642,
+    "total_accidents": 1883,
+    "severities": {
+      "Minor": 442,
+      "Moderate": 497,
+      "Severe": 485,
+      "Fatal": 459
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "lat": 22.3072,
+    "lng": 73.1812,
+    "total_accidents": 1881,
+    "severities": {
+      "Minor": 469,
+      "Moderate": 499,
+      "Severe": 454,
+      "Fatal": 459
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Roing",
+    "state": "Arunachal Pradesh",
+    "lat": 28.3678,
+    "lng": 96.456,
+    "total_accidents": 1880,
+    "severities": {
+      "Minor": 464,
+      "Moderate": 471,
+      "Severe": 456,
+      "Fatal": 489
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Bongaigaon",
+    "state": "Assam",
+    "lat": 25.2582,
+    "lng": 94.115,
+    "total_accidents": 1880,
+    "severities": {
+      "Minor": 464,
+      "Moderate": 470,
+      "Severe": 476,
+      "Fatal": 470
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Rajahmundry",
+    "state": "Andhra Pradesh",
+    "lat": 15.4808,
+    "lng": 82.8504,
+    "total_accidents": 1875,
+    "severities": {
+      "Minor": 481,
+      "Moderate": 482,
+      "Severe": 495,
+      "Fatal": 417
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "lat": 18.0236,
+    "lng": 79.2728,
+    "total_accidents": 1872,
+    "severities": {
+      "Minor": 453,
+      "Moderate": 440,
+      "Severe": 500,
+      "Fatal": 479
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "lat": 17.8988,
+    "lng": 78.844,
+    "total_accidents": 1871,
+    "severities": {
+      "Minor": 489,
+      "Moderate": 467,
+      "Severe": 441,
+      "Fatal": 474
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "lat": 26.2389,
+    "lng": 73.0243,
+    "total_accidents": 1871,
+    "severities": {
+      "Minor": 461,
+      "Moderate": 472,
+      "Severe": 473,
+      "Fatal": 465
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Darjeeling",
+    "state": "West Bengal",
+    "lat": 22.7038,
+    "lng": 89.0013,
+    "total_accidents": 1870,
+    "severities": {
+      "Minor": 480,
+      "Moderate": 422,
+      "Severe": 486,
+      "Fatal": 482
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Kohima",
+    "state": "Nagaland",
+    "lat": 25.6751,
+    "lng": 94.1086,
+    "total_accidents": 1866,
+    "severities": {
+      "Minor": 454,
+      "Moderate": 453,
+      "Severe": 469,
+      "Fatal": 490
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Warangal",
+    "state": "Telangana",
+    "lat": 17.9689,
+    "lng": 79.5941,
+    "total_accidents": 1855,
+    "severities": {
+      "Minor": 462,
+      "Moderate": 487,
+      "Severe": 445,
+      "Fatal": 461
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "total_accidents": 1853,
+    "severities": {
+      "Minor": 473,
+      "Moderate": 455,
+      "Severe": 484,
+      "Fatal": 441
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "total_accidents": 1851,
+    "severities": {
+      "Minor": 435,
+      "Moderate": 480,
+      "Severe": 437,
+      "Fatal": 499
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Yamunanagar",
+    "state": "Haryana",
+    "lat": 29.8176,
+    "lng": 75.2448,
+    "total_accidents": 1850,
+    "severities": {
+      "Minor": 470,
+      "Moderate": 446,
+      "Severe": 448,
+      "Fatal": 486
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "lat": 23.7307,
+    "lng": 92.7173,
+    "total_accidents": 1847,
+    "severities": {
+      "Minor": 448,
+      "Moderate": 475,
+      "Severe": 463,
+      "Fatal": 461
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Dhamtari",
+    "state": "Chhattisgarh",
+    "lat": 18.7022,
+    "lng": 81.2416,
+    "total_accidents": 1842,
+    "severities": {
+      "Minor": 466,
+      "Moderate": 449,
+      "Severe": 446,
+      "Fatal": 481
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Karur",
+    "state": "Tamil Nadu",
+    "lat": 8.7134,
+    "lng": 78.578,
+    "total_accidents": 575,
+    "severities": {
+      "Minor": 141,
+      "Moderate": 141,
+      "Severe": 136,
+      "Fatal": 157
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Siwan",
+    "state": "Bihar",
+    "lat": 25.2011,
+    "lng": 87.324,
+    "total_accidents": 568,
+    "severities": {
+      "Minor": 144,
+      "Moderate": 151,
+      "Severe": 127,
+      "Fatal": 146
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Muktsar",
+    "state": "Punjab",
+    "lat": 31.4776,
+    "lng": 74.4688,
+    "total_accidents": 564,
+    "severities": {
+      "Minor": 129,
+      "Moderate": 152,
+      "Severe": 136,
+      "Fatal": 147
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Malda",
+    "state": "West Bengal",
+    "lat": 26.5753,
+    "lng": 88.2502,
+    "total_accidents": 560,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 132,
+      "Severe": 156,
+      "Fatal": 136
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Dehri",
+    "state": "Bihar",
+    "lat": 26.2379,
+    "lng": 84.304,
+    "total_accidents": 559,
+    "severities": {
+      "Minor": 145,
+      "Moderate": 116,
+      "Severe": 138,
+      "Fatal": 160
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Pathanamthitta",
+    "state": "Kerala",
+    "lat": 8.8076,
+    "lng": 77.012,
+    "total_accidents": 559,
+    "severities": {
+      "Minor": 145,
+      "Moderate": 129,
+      "Severe": 148,
+      "Fatal": 137
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Moga",
+    "state": "Punjab",
+    "lat": 30.3136,
+    "lng": 76.5976,
+    "total_accidents": 557,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 141,
+      "Severe": 147,
+      "Fatal": 132
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Bairabi",
+    "state": "Mizoram",
+    "lat": 22.7944,
+    "lng": 92.823,
+    "total_accidents": 555,
+    "severities": {
+      "Minor": 142,
+      "Moderate": 141,
+      "Severe": 137,
+      "Fatal": 135
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "lat": 25.4358,
+    "lng": 81.8463,
+    "total_accidents": 550,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 138,
+      "Severe": 143,
+      "Fatal": 132
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Bhadrak",
+    "state": "Odisha",
+    "lat": 19.3091,
+    "lng": 83.9815,
+    "total_accidents": 549,
+    "severities": {
+      "Minor": 150,
+      "Moderate": 115,
+      "Severe": 142,
+      "Fatal": 142
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Peren",
+    "state": "Nagaland",
+    "lat": 25.8451,
+    "lng": 94.975,
+    "total_accidents": 547,
+    "severities": {
+      "Minor": 126,
+      "Moderate": 132,
+      "Severe": 150,
+      "Fatal": 139
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Nanded",
+    "state": "Maharashtra",
+    "lat": 19.8035,
+    "lng": 75.4818,
+    "total_accidents": 546,
+    "severities": {
+      "Minor": 140,
+      "Moderate": 144,
+      "Severe": 134,
+      "Fatal": 128
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Ooty",
+    "state": "Tamil Nadu",
+    "lat": 11.3227,
+    "lng": 77.8728,
+    "total_accidents": 544,
+    "severities": {
+      "Minor": 143,
+      "Moderate": 130,
+      "Severe": 133,
+      "Fatal": 138
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "lat": 24.7011,
+    "lng": 89.1784,
+    "total_accidents": 544,
+    "severities": {
+      "Minor": 140,
+      "Moderate": 146,
+      "Severe": 123,
+      "Fatal": 135
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Nongstoin",
+    "state": "Meghalaya",
+    "lat": 25.9011,
+    "lng": 90.7648,
+    "total_accidents": 543,
+    "severities": {
+      "Minor": 113,
+      "Moderate": 149,
+      "Severe": 131,
+      "Fatal": 150
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Chikkamagaluru",
+    "state": "Karnataka",
+    "lat": 13.7914,
+    "lng": 77.864,
+    "total_accidents": 542,
+    "severities": {
+      "Minor": 141,
+      "Moderate": 131,
+      "Severe": 139,
+      "Fatal": 131
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Jharsuguda",
+    "state": "Odisha",
+    "lat": 21.6822,
+    "lng": 86.1629,
+    "total_accidents": 540,
+    "severities": {
+      "Minor": 116,
+      "Moderate": 131,
+      "Severe": 118,
+      "Fatal": 175
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Basirhat",
+    "state": "West Bengal",
+    "lat": 22.909,
+    "lng": 89.3719,
+    "total_accidents": 540,
+    "severities": {
+      "Minor": 154,
+      "Moderate": 129,
+      "Severe": 126,
+      "Fatal": 131
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Zunheboto",
+    "state": "Nagaland",
+    "lat": 26.2757,
+    "lng": 94.8626,
+    "total_accidents": 539,
+    "severities": {
+      "Minor": 140,
+      "Moderate": 140,
+      "Severe": 132,
+      "Fatal": 127
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Jajpur",
+    "state": "Odisha",
+    "lat": 19.24,
+    "lng": 85.0893,
+    "total_accidents": 539,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 138,
+      "Severe": 142,
+      "Fatal": 131
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "lat": 10.0483,
+    "lng": 76.9938,
+    "total_accidents": 539,
+    "severities": {
+      "Minor": 129,
+      "Moderate": 146,
+      "Severe": 135,
+      "Fatal": 129
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "lat": 12.096,
+    "lng": 78.4402,
+    "total_accidents": 539,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 134,
+      "Severe": 153,
+      "Fatal": 133
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Khammam",
+    "state": "Telangana",
+    "lat": 17.5122,
+    "lng": 77.6789,
+    "total_accidents": 539,
+    "severities": {
+      "Minor": 122,
+      "Moderate": 142,
+      "Severe": 134,
+      "Fatal": 141
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Bishalgarh",
+    "state": "Tripura",
+    "lat": 23.595,
+    "lng": 91.8238,
+    "total_accidents": 539,
+    "severities": {
+      "Minor": 133,
+      "Moderate": 138,
+      "Severe": 141,
+      "Fatal": 127
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Kashipur",
+    "state": "Uttarakhand",
+    "lat": 31.2155,
+    "lng": 78.0026,
+    "total_accidents": 539,
+    "severities": {
+      "Minor": 124,
+      "Moderate": 145,
+      "Severe": 126,
+      "Fatal": 144
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Kanchipuram",
+    "state": "Tamil Nadu",
+    "lat": 12.9254,
+    "lng": 78.9749,
+    "total_accidents": 538,
+    "severities": {
+      "Minor": 129,
+      "Moderate": 140,
+      "Severe": 126,
+      "Fatal": 143
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Thoothukudi",
+    "state": "Tamil Nadu",
+    "lat": 11.7893,
+    "lng": 78.66,
+    "total_accidents": 538,
+    "severities": {
+      "Minor": 120,
+      "Moderate": 148,
+      "Severe": 148,
+      "Fatal": 122
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Chitradurga",
+    "state": "Karnataka",
+    "lat": 13.0849,
+    "lng": 74.5814,
+    "total_accidents": 537,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 143,
+      "Severe": 134,
+      "Fatal": 141
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Ayodhya",
+    "state": "Uttar Pradesh",
+    "lat": 26.9628,
+    "lng": 83.73,
+    "total_accidents": 537,
+    "severities": {
+      "Minor": 125,
+      "Moderate": 138,
+      "Severe": 147,
+      "Fatal": 127
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Kangra",
+    "state": "Himachal Pradesh",
+    "lat": 31.4282,
+    "lng": 77.0987,
+    "total_accidents": 536,
+    "severities": {
+      "Minor": 147,
+      "Moderate": 138,
+      "Severe": 137,
+      "Fatal": 114
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Vatakara",
+    "state": "Kerala",
+    "lat": 10.6184,
+    "lng": 76.846,
+    "total_accidents": 536,
+    "severities": {
+      "Minor": 135,
+      "Moderate": 141,
+      "Severe": 140,
+      "Fatal": 120
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "lat": 22.789,
+    "lng": 79.2659,
+    "total_accidents": 536,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 137,
+      "Severe": 127,
+      "Fatal": 140
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Singtam",
+    "state": "Sikkim",
+    "lat": 27.912,
+    "lng": 88.5479,
+    "total_accidents": 536,
+    "severities": {
+      "Minor": 109,
+      "Moderate": 153,
+      "Severe": 126,
+      "Fatal": 148
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Mussoorie",
+    "state": "Uttarakhand",
+    "lat": 30.4539,
+    "lng": 79.6726,
+    "total_accidents": 536,
+    "severities": {
+      "Minor": 153,
+      "Moderate": 120,
+      "Severe": 147,
+      "Fatal": 116
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Panchkula",
+    "state": "Haryana",
+    "lat": 28.0884,
+    "lng": 77.1904,
+    "total_accidents": 535,
+    "severities": {
+      "Minor": 152,
+      "Moderate": 122,
+      "Severe": 126,
+      "Fatal": 135
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Sundernagar",
+    "state": "Himachal Pradesh",
+    "lat": 31.4976,
+    "lng": 78.252,
+    "total_accidents": 535,
+    "severities": {
+      "Minor": 130,
+      "Moderate": 149,
+      "Severe": 133,
+      "Fatal": 123
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Kendujhar",
+    "state": "Odisha",
+    "lat": 20.1347,
+    "lng": 85.1674,
+    "total_accidents": 535,
+    "severities": {
+      "Minor": 127,
+      "Moderate": 151,
+      "Severe": 129,
+      "Fatal": 128
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Malerkotla",
+    "state": "Punjab",
+    "lat": 31.024,
+    "lng": 74.6944,
+    "total_accidents": 535,
+    "severities": {
+      "Minor": 116,
+      "Moderate": 148,
+      "Severe": 145,
+      "Fatal": 126
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Motihari",
+    "state": "Bihar",
+    "lat": 24.6789,
+    "lng": 85.268,
+    "total_accidents": 534,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 147,
+      "Severe": 116,
+      "Fatal": 139
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Hosapete",
+    "state": "Karnataka",
+    "lat": 13.1235,
+    "lng": 75.1298,
+    "total_accidents": 534,
+    "severities": {
+      "Minor": 145,
+      "Moderate": 146,
+      "Severe": 114,
+      "Fatal": 129
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Wangjing",
+    "state": "Manipur",
+    "lat": 23.993,
+    "lng": 94.3925,
+    "total_accidents": 534,
+    "severities": {
+      "Minor": 154,
+      "Moderate": 127,
+      "Severe": 125,
+      "Fatal": 128
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Chamba",
+    "state": "Himachal Pradesh",
+    "lat": 31.7552,
+    "lng": 77.5829,
+    "total_accidents": 533,
+    "severities": {
+      "Minor": 125,
+      "Moderate": 154,
+      "Severe": 118,
+      "Fatal": 136
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Kakching",
+    "state": "Manipur",
+    "lat": 25.3048,
+    "lng": 94.1678,
+    "total_accidents": 533,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 141,
+      "Severe": 140,
+      "Fatal": 115
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Jowai",
+    "state": "Meghalaya",
+    "lat": 25.8536,
+    "lng": 90.556,
+    "total_accidents": 533,
+    "severities": {
+      "Minor": 144,
+      "Moderate": 135,
+      "Severe": 103,
+      "Fatal": 151
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Miryalaguda",
+    "state": "Telangana",
+    "lat": 16.9677,
+    "lng": 80.0208,
+    "total_accidents": 533,
+    "severities": {
+      "Minor": 123,
+      "Moderate": 138,
+      "Severe": 114,
+      "Fatal": 158
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "lat": 21.2371,
+    "lng": 76.7168,
+    "total_accidents": 532,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 142,
+      "Severe": 137,
+      "Fatal": 134
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Chumoukedima",
+    "state": "Nagaland",
+    "lat": 26.7437,
+    "lng": 93.8989,
+    "total_accidents": 532,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 119,
+      "Severe": 143,
+      "Fatal": 142
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Mohanpur",
+    "state": "Tripura",
+    "lat": 24.0328,
+    "lng": 91.6347,
+    "total_accidents": 532,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 131,
+      "Severe": 139,
+      "Fatal": 126
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Alipurduar",
+    "state": "West Bengal",
+    "lat": 24.7786,
+    "lng": 87.9353,
+    "total_accidents": 532,
+    "severities": {
+      "Minor": 113,
+      "Moderate": 136,
+      "Severe": 140,
+      "Fatal": 143
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Malegaon",
+    "state": "Maharashtra",
+    "lat": 16.7008,
+    "lng": 75.9134,
+    "total_accidents": 531,
+    "severities": {
+      "Minor": 147,
+      "Moderate": 135,
+      "Severe": 132,
+      "Fatal": 117
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Khanna",
+    "state": "Punjab",
+    "lat": 31.4728,
+    "lng": 74.476,
+    "total_accidents": 531,
+    "severities": {
+      "Minor": 133,
+      "Moderate": 141,
+      "Severe": 119,
+      "Fatal": 138
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Cuddalore",
+    "state": "Tamil Nadu",
+    "lat": 9.9014,
+    "lng": 78.6928,
+    "total_accidents": 531,
+    "severities": {
+      "Minor": 131,
+      "Moderate": 129,
+      "Severe": 154,
+      "Fatal": 117
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Lachung",
+    "state": "Sikkim",
+    "lat": 27.6752,
+    "lng": 88.6653,
+    "total_accidents": 530,
+    "severities": {
+      "Minor": 130,
+      "Moderate": 149,
+      "Severe": 127,
+      "Fatal": 124
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Palampur",
+    "state": "Himachal Pradesh",
+    "lat": 31.2915,
+    "lng": 77.2429,
+    "total_accidents": 529,
+    "severities": {
+      "Minor": 140,
+      "Moderate": 142,
+      "Severe": 130,
+      "Fatal": 117
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Vasai-Virar",
+    "state": "Maharashtra",
+    "lat": 18.5491,
+    "lng": 78.4034,
+    "total_accidents": 529,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 137,
+      "Severe": 130,
+      "Fatal": 126
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Pfutsero",
+    "state": "Nagaland",
+    "lat": 25.5614,
+    "lng": 94.1314,
+    "total_accidents": 529,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 130,
+      "Severe": 135,
+      "Fatal": 127
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Sri Ganganagar",
+    "state": "Rajasthan",
+    "lat": 28.8637,
+    "lng": 74.4914,
+    "total_accidents": 529,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 133,
+      "Severe": 135,
+      "Fatal": 129
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "lat": 9.3182,
+    "lng": 78.8699,
+    "total_accidents": 529,
+    "severities": {
+      "Minor": 131,
+      "Moderate": 129,
+      "Severe": 135,
+      "Fatal": 134
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Ambassa",
+    "state": "Tripura",
+    "lat": 23.0984,
+    "lng": 91.3246,
+    "total_accidents": 529,
+    "severities": {
+      "Minor": 133,
+      "Moderate": 122,
+      "Severe": 136,
+      "Fatal": 138
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Almora",
+    "state": "Uttarakhand",
+    "lat": 29.5042,
+    "lng": 79.0824,
+    "total_accidents": 529,
+    "severities": {
+      "Minor": 153,
+      "Moderate": 106,
+      "Severe": 150,
+      "Fatal": 120
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "lat": 26.7271,
+    "lng": 88.3953,
+    "total_accidents": 529,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 143,
+      "Severe": 118,
+      "Fatal": 131
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Sirsa",
+    "state": "Haryana",
+    "lat": 29.316,
+    "lng": 76.8397,
+    "total_accidents": 528,
+    "severities": {
+      "Minor": 140,
+      "Moderate": 151,
+      "Severe": 124,
+      "Fatal": 113
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Akola",
+    "state": "Maharashtra",
+    "lat": 17.7248,
+    "lng": 79.6118,
+    "total_accidents": 528,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 134,
+      "Severe": 126,
+      "Fatal": 131
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Longleng",
+    "state": "Nagaland",
+    "lat": 26.604,
+    "lng": 93.5386,
+    "total_accidents": 528,
+    "severities": {
+      "Minor": 141,
+      "Moderate": 125,
+      "Severe": 136,
+      "Fatal": 126
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Tiruppur",
+    "state": "Tamil Nadu",
+    "lat": 11.219,
+    "lng": 79.0438,
+    "total_accidents": 528,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 142,
+      "Severe": 137,
+      "Fatal": 117
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Asansol",
+    "state": "West Bengal",
+    "lat": 23.6739,
+    "lng": 86.9524,
+    "total_accidents": 528,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 129,
+      "Severe": 132,
+      "Fatal": 131
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Lachen",
+    "state": "Sikkim",
+    "lat": 27.5776,
+    "lng": 88.4514,
+    "total_accidents": 527,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 153,
+      "Severe": 117,
+      "Fatal": 125
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Udaipur",
+    "state": "Tripura",
+    "lat": 24.5854,
+    "lng": 73.7125,
+    "total_accidents": 527,
+    "severities": {
+      "Minor": 133,
+      "Moderate": 136,
+      "Severe": 131,
+      "Fatal": 127
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Manjeri",
+    "state": "Kerala",
+    "lat": 10.4492,
+    "lng": 77.01,
+    "total_accidents": 526,
+    "severities": {
+      "Minor": 144,
+      "Moderate": 126,
+      "Severe": 128,
+      "Fatal": 128
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Batala",
+    "state": "Punjab",
+    "lat": 31.4056,
+    "lng": 75.4864,
+    "total_accidents": 526,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 150,
+      "Severe": 125,
+      "Fatal": 114
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "lat": 24.5854,
+    "lng": 73.7125,
+    "total_accidents": 526,
+    "severities": {
+      "Minor": 131,
+      "Moderate": 125,
+      "Severe": 136,
+      "Fatal": 134
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Ranipet",
+    "state": "Tamil Nadu",
+    "lat": 10.031,
+    "lng": 77.1873,
+    "total_accidents": 525,
+    "severities": {
+      "Minor": 127,
+      "Moderate": 142,
+      "Severe": 128,
+      "Fatal": 128
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "lat": 20.2694,
+    "lng": 76.6106,
+    "total_accidents": 524,
+    "severities": {
+      "Minor": 129,
+      "Moderate": 133,
+      "Severe": 120,
+      "Fatal": 142
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Serchhip",
+    "state": "Mizoram",
+    "lat": 23.2187,
+    "lng": 92.9133,
+    "total_accidents": 524,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 120,
+      "Severe": 135,
+      "Fatal": 137
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Rewari",
+    "state": "Haryana",
+    "lat": 28.0805,
+    "lng": 76.0358,
+    "total_accidents": 523,
+    "severities": {
+      "Minor": 134,
+      "Moderate": 113,
+      "Severe": 131,
+      "Fatal": 145
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Ballari",
+    "state": "Karnataka",
+    "lat": 12.842,
+    "lng": 76.1786,
+    "total_accidents": 523,
+    "severities": {
+      "Minor": 133,
+      "Moderate": 142,
+      "Severe": 114,
+      "Fatal": 134
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Lilong",
+    "state": "Manipur",
+    "lat": 25.095,
+    "lng": 93.2938,
+    "total_accidents": 523,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 150,
+      "Severe": 127,
+      "Fatal": 125
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Dewas",
+    "state": "Madhya Pradesh",
+    "lat": 23.8098,
+    "lng": 81.0118,
+    "total_accidents": 522,
+    "severities": {
+      "Minor": 135,
+      "Moderate": 126,
+      "Severe": 138,
+      "Fatal": 123
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Cherrapunji",
+    "state": "Meghalaya",
+    "lat": 25.5456,
+    "lng": 90.4984,
+    "total_accidents": 522,
+    "severities": {
+      "Minor": 116,
+      "Moderate": 128,
+      "Severe": 131,
+      "Fatal": 147
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Jagtial",
+    "state": "Telangana",
+    "lat": 18.4437,
+    "lng": 78.6924,
+    "total_accidents": 522,
+    "severities": {
+      "Minor": 146,
+      "Moderate": 122,
+      "Severe": 122,
+      "Fatal": 132
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Mathura",
+    "state": "Uttar Pradesh",
+    "lat": 24.9192,
+    "lng": 79.632,
+    "total_accidents": 522,
+    "severities": {
+      "Minor": 126,
+      "Moderate": 130,
+      "Severe": 127,
+      "Fatal": 139
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "lat": 28.5355,
+    "lng": 77.391,
+    "total_accidents": 521,
+    "severities": {
+      "Minor": 134,
+      "Moderate": 125,
+      "Severe": 130,
+      "Fatal": 132
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Vapi",
+    "state": "Gujarat",
+    "lat": 21.756,
+    "lng": 72.0153,
+    "total_accidents": 520,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 133,
+      "Severe": 127,
+      "Fatal": 124
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Kiphire",
+    "state": "Nagaland",
+    "lat": 26.7696,
+    "lng": 94.3321,
+    "total_accidents": 520,
+    "severities": {
+      "Minor": 134,
+      "Moderate": 124,
+      "Severe": 133,
+      "Fatal": 129
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Wokha",
+    "state": "Nagaland",
+    "lat": 26.4816,
+    "lng": 93.8062,
+    "total_accidents": 520,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 131,
+      "Severe": 119,
+      "Fatal": 149
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Balasore",
+    "state": "Odisha",
+    "lat": 19.5856,
+    "lng": 82.2589,
+    "total_accidents": 520,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 124,
+      "Severe": 127,
+      "Fatal": 151
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Santirbazar",
+    "state": "Tripura",
+    "lat": 23.1176,
+    "lng": 91.9803,
+    "total_accidents": 520,
+    "severities": {
+      "Minor": 139,
+      "Moderate": 125,
+      "Severe": 114,
+      "Fatal": 142
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Baharampur",
+    "state": "West Bengal",
+    "lat": 22.8589,
+    "lng": 87.9254,
+    "total_accidents": 520,
+    "severities": {
+      "Minor": 134,
+      "Moderate": 124,
+      "Severe": 128,
+      "Fatal": 134
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Mayang Imphal",
+    "state": "Manipur",
+    "lat": 25.4963,
+    "lng": 94.1621,
+    "total_accidents": 519,
+    "severities": {
+      "Minor": 110,
+      "Moderate": 126,
+      "Severe": 143,
+      "Fatal": 140
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Pelling",
+    "state": "Sikkim",
+    "lat": 27.7992,
+    "lng": 88.5962,
+    "total_accidents": 519,
+    "severities": {
+      "Minor": 126,
+      "Moderate": 131,
+      "Severe": 136,
+      "Fatal": 126
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Muzaffarnagar",
+    "state": "Uttar Pradesh",
+    "lat": 27.4464,
+    "lng": 78.012,
+    "total_accidents": 519,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 132,
+      "Severe": 129,
+      "Fatal": 122
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Kawardha",
+    "state": "Chhattisgarh",
+    "lat": 19.7404,
+    "lng": 83.6474,
+    "total_accidents": 518,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 140,
+      "Severe": 125,
+      "Fatal": 116
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Marmagao",
+    "state": "Goa",
+    "lat": 15.5048,
+    "lng": 73.9938,
+    "total_accidents": 518,
+    "severities": {
+      "Minor": 129,
+      "Moderate": 124,
+      "Severe": 132,
+      "Fatal": 133
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Kannur",
+    "state": "Kerala",
+    "lat": 10.4924,
+    "lng": 76.622,
+    "total_accidents": 518,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 116,
+      "Severe": 122,
+      "Fatal": 143
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Mamit",
+    "state": "Mizoram",
+    "lat": 22.2536,
+    "lng": 92.9488,
+    "total_accidents": 518,
+    "severities": {
+      "Minor": 120,
+      "Moderate": 133,
+      "Severe": 113,
+      "Fatal": 152
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Sambalpur",
+    "state": "Odisha",
+    "lat": 21.8166,
+    "lng": 84.5281,
+    "total_accidents": 518,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 125,
+      "Severe": 141,
+      "Fatal": 120
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "lat": 29.6512,
+    "lng": 81.378,
+    "total_accidents": 518,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 131,
+      "Severe": 122,
+      "Fatal": 129
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Hanumangarh",
+    "state": "Rajasthan",
+    "lat": 29.4282,
+    "lng": 72.9918,
+    "total_accidents": 517,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 141,
+      "Severe": 131,
+      "Fatal": 124
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Mancherial",
+    "state": "Telangana",
+    "lat": 17.5286,
+    "lng": 80.1914,
+    "total_accidents": 517,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 147,
+      "Severe": 115,
+      "Fatal": 127
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Ramagundam",
+    "state": "Telangana",
+    "lat": 17.8631,
+    "lng": 77.6559,
+    "total_accidents": 517,
+    "severities": {
+      "Minor": 134,
+      "Moderate": 142,
+      "Severe": 134,
+      "Fatal": 107
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Firozabad",
+    "state": "Uttar Pradesh",
+    "lat": 27.3268,
+    "lng": 79.758,
+    "total_accidents": 517,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 123,
+      "Severe": 125,
+      "Fatal": 141
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Chaibasa",
+    "state": "Jharkhand",
+    "lat": 23.4599,
+    "lng": 86.0122,
+    "total_accidents": 516,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 135,
+      "Severe": 143,
+      "Fatal": 119
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Bishnupur",
+    "state": "Manipur",
+    "lat": 24.0538,
+    "lng": 93.563,
+    "total_accidents": 516,
+    "severities": {
+      "Minor": 115,
+      "Moderate": 127,
+      "Severe": 147,
+      "Fatal": 127
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Phek",
+    "state": "Nagaland",
+    "lat": 26.1245,
+    "lng": 94.9188,
+    "total_accidents": 516,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 121,
+      "Severe": 139,
+      "Fatal": 137
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Sivakasi",
+    "state": "Tamil Nadu",
+    "lat": 11.7245,
+    "lng": 77.9712,
+    "total_accidents": 516,
+    "severities": {
+      "Minor": 134,
+      "Moderate": 147,
+      "Severe": 124,
+      "Fatal": 111
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Kaithal",
+    "state": "Haryana",
+    "lat": 28.6692,
+    "lng": 76.873,
+    "total_accidents": 515,
+    "severities": {
+      "Minor": 115,
+      "Moderate": 135,
+      "Severe": 147,
+      "Fatal": 118
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Barnala",
+    "state": "Punjab",
+    "lat": 31.3816,
+    "lng": 74.4568,
+    "total_accidents": 515,
+    "severities": {
+      "Minor": 109,
+      "Moderate": 114,
+      "Severe": 142,
+      "Fatal": 150
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "lat": 31.708,
+    "lng": 75.2704,
+    "total_accidents": 515,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 146,
+      "Severe": 127,
+      "Fatal": 114
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Dholpur",
+    "state": "Rajasthan",
+    "lat": 27.4755,
+    "lng": 76.2936,
+    "total_accidents": 515,
+    "severities": {
+      "Minor": 124,
+      "Moderate": 126,
+      "Severe": 138,
+      "Fatal": 127
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Kharagpur",
+    "state": "West Bengal",
+    "lat": 23.5429,
+    "lng": 88.3289,
+    "total_accidents": 515,
+    "severities": {
+      "Minor": 126,
+      "Moderate": 132,
+      "Severe": 128,
+      "Fatal": 129
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Nabadwip",
+    "state": "West Bengal",
+    "lat": 26.4886,
+    "lng": 86.6298,
+    "total_accidents": 515,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 131,
+      "Severe": 118,
+      "Fatal": 130
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Mehsana",
+    "state": "Gujarat",
+    "lat": 20.7109,
+    "lng": 69.6868,
+    "total_accidents": 514,
+    "severities": {
+      "Minor": 140,
+      "Moderate": 137,
+      "Severe": 132,
+      "Fatal": 105
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Phusro",
+    "state": "Jharkhand",
+    "lat": 24.0486,
+    "lng": 84.2752,
+    "total_accidents": 514,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 110,
+      "Severe": 157,
+      "Fatal": 129
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "lat": 19.8762,
+    "lng": 75.3433,
+    "total_accidents": 514,
+    "severities": {
+      "Minor": 138,
+      "Moderate": 117,
+      "Severe": 135,
+      "Fatal": 124
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Baghmara",
+    "state": "Meghalaya",
+    "lat": 25.1725,
+    "lng": 91.2304,
+    "total_accidents": 514,
+    "severities": {
+      "Minor": 141,
+      "Moderate": 106,
+      "Severe": 144,
+      "Fatal": 123
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Bhawanipatna",
+    "state": "Odisha",
+    "lat": 20.1347,
+    "lng": 82.0832,
+    "total_accidents": 514,
+    "severities": {
+      "Minor": 142,
+      "Moderate": 134,
+      "Severe": 120,
+      "Fatal": 118
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Karimnagar",
+    "state": "Telangana",
+    "lat": 17.5023,
+    "lng": 80.4472,
+    "total_accidents": 514,
+    "severities": {
+      "Minor": 130,
+      "Moderate": 128,
+      "Severe": 121,
+      "Fatal": 135
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Haldwani",
+    "state": "Uttarakhand",
+    "lat": 30.6331,
+    "lng": 80.0099,
+    "total_accidents": 514,
+    "severities": {
+      "Minor": 134,
+      "Moderate": 107,
+      "Severe": 137,
+      "Fatal": 136
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Durg",
+    "state": "Chhattisgarh",
+    "lat": 19.3473,
+    "lng": 80.8518,
+    "total_accidents": 513,
+    "severities": {
+      "Minor": 140,
+      "Moderate": 128,
+      "Severe": 129,
+      "Fatal": 116
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Balangir",
+    "state": "Odisha",
+    "lat": 19.1056,
+    "lng": 84.1523,
+    "total_accidents": 513,
+    "severities": {
+      "Minor": 116,
+      "Moderate": 136,
+      "Severe": 134,
+      "Fatal": 127
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Siddipet",
+    "state": "Telangana",
+    "lat": 18.7159,
+    "lng": 79.0466,
+    "total_accidents": 513,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 131,
+      "Severe": 116,
+      "Fatal": 129
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Raichur",
+    "state": "Karnataka",
+    "lat": 14.0454,
+    "lng": 75.5125,
+    "total_accidents": 512,
+    "severities": {
+      "Minor": 129,
+      "Moderate": 127,
+      "Severe": 121,
+      "Fatal": 135
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Thalassery",
+    "state": "Kerala",
+    "lat": 10.6832,
+    "lng": 76.908,
+    "total_accidents": 512,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 118,
+      "Severe": 138,
+      "Fatal": 135
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Bhind",
+    "state": "Madhya Pradesh",
+    "lat": 24.3573,
+    "lng": 75.1475,
+    "total_accidents": 512,
+    "severities": {
+      "Minor": 140,
+      "Moderate": 123,
+      "Severe": 126,
+      "Fatal": 123
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Pali",
+    "state": "Rajasthan",
+    "lat": 25.6208,
+    "lng": 72.0978,
+    "total_accidents": 512,
+    "severities": {
+      "Minor": 130,
+      "Moderate": 139,
+      "Severe": 127,
+      "Fatal": 116
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Bankura",
+    "state": "West Bengal",
+    "lat": 22.7768,
+    "lng": 87.5253,
+    "total_accidents": 512,
+    "severities": {
+      "Minor": 143,
+      "Moderate": 128,
+      "Severe": 121,
+      "Fatal": 120
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Mairang",
+    "state": "Meghalaya",
+    "lat": 25.2068,
+    "lng": 92.2864,
+    "total_accidents": 511,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 128,
+      "Severe": 122,
+      "Fatal": 133
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Darlawn",
+    "state": "Mizoram",
+    "lat": 23.2,
+    "lng": 93.2166,
+    "total_accidents": 511,
+    "severities": {
+      "Minor": 123,
+      "Moderate": 146,
+      "Severe": 110,
+      "Fatal": 132
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Berhampur",
+    "state": "Odisha",
+    "lat": 20.7299,
+    "lng": 82.1027,
+    "total_accidents": 511,
+    "severities": {
+      "Minor": 142,
+      "Moderate": 119,
+      "Severe": 138,
+      "Fatal": 112
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Pakyong",
+    "state": "Sikkim",
+    "lat": 27.3096,
+    "lng": 88.5098,
+    "total_accidents": 511,
+    "severities": {
+      "Minor": 142,
+      "Moderate": 120,
+      "Severe": 130,
+      "Fatal": 119
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Kamareddy",
+    "state": "Telangana",
+    "lat": 19.2243,
+    "lng": 79.1122,
+    "total_accidents": 511,
+    "severities": {
+      "Minor": 120,
+      "Moderate": 118,
+      "Severe": 133,
+      "Fatal": 140
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Kanker",
+    "state": "Chhattisgarh",
+    "lat": 22.2705,
+    "lng": 81.8766,
+    "total_accidents": 510,
+    "severities": {
+      "Minor": 124,
+      "Moderate": 127,
+      "Severe": 132,
+      "Fatal": 127
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Vijayapura",
+    "state": "Karnataka",
+    "lat": 14.3158,
+    "lng": 75.0083,
+    "total_accidents": 510,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 138,
+      "Severe": 118,
+      "Fatal": 135
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Patiala",
+    "state": "Punjab",
+    "lat": 30.3398,
+    "lng": 76.3869,
+    "total_accidents": 510,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 129,
+      "Severe": 132,
+      "Fatal": 121
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Bhatapara",
+    "state": "Chhattisgarh",
+    "lat": 22.4418,
+    "lng": 81.9976,
+    "total_accidents": 509,
+    "severities": {
+      "Minor": 114,
+      "Moderate": 122,
+      "Severe": 139,
+      "Fatal": 134
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Hassan",
+    "state": "Karnataka",
+    "lat": 16.7888,
+    "lng": 77.1501,
+    "total_accidents": 509,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 140,
+      "Severe": 115,
+      "Fatal": 126
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Byrnihat",
+    "state": "Meghalaya",
+    "lat": 25.4743,
+    "lng": 92.3656,
+    "total_accidents": 509,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 122,
+      "Severe": 117,
+      "Fatal": 134
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Khawzawl",
+    "state": "Mizoram",
+    "lat": 23.6098,
+    "lng": 92.4765,
+    "total_accidents": 509,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 131,
+      "Severe": 129,
+      "Fatal": 128
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Kothagudem",
+    "state": "Telangana",
+    "lat": 19.244,
+    "lng": 78.5907,
+    "total_accidents": 509,
+    "severities": {
+      "Minor": 123,
+      "Moderate": 125,
+      "Severe": 122,
+      "Fatal": 139
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Nainital",
+    "state": "Uttarakhand",
+    "lat": 30.6488,
+    "lng": 78.6934,
+    "total_accidents": 509,
+    "severities": {
+      "Minor": 146,
+      "Moderate": 125,
+      "Severe": 131,
+      "Fatal": 107
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Gadag",
+    "state": "Karnataka",
+    "lat": 13.7418,
+    "lng": 76.2338,
+    "total_accidents": 508,
+    "severities": {
+      "Minor": 131,
+      "Moderate": 120,
+      "Severe": 133,
+      "Fatal": 124
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Churu",
+    "state": "Rajasthan",
+    "lat": 26.5366,
+    "lng": 75.8782,
+    "total_accidents": 508,
+    "severities": {
+      "Minor": 123,
+      "Moderate": 128,
+      "Severe": 126,
+      "Fatal": 131
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Hosur",
+    "state": "Tamil Nadu",
+    "lat": 9.9533,
+    "lng": 77.5087,
+    "total_accidents": 507,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 122,
+      "Severe": 123,
+      "Fatal": 126
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "lat": 19.9315,
+    "lng": 79.7579,
+    "total_accidents": 506,
+    "severities": {
+      "Minor": 144,
+      "Moderate": 110,
+      "Severe": 133,
+      "Fatal": 119
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Vairengte",
+    "state": "Mizoram",
+    "lat": 22.237,
+    "lng": 92.3373,
+    "total_accidents": 506,
+    "severities": {
+      "Minor": 126,
+      "Moderate": 129,
+      "Severe": 121,
+      "Fatal": 130
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Naya Bazar",
+    "state": "Sikkim",
+    "lat": 27.7608,
+    "lng": 88.3355,
+    "total_accidents": 506,
+    "severities": {
+      "Minor": 142,
+      "Moderate": 128,
+      "Severe": 129,
+      "Fatal": 107
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Pauri",
+    "state": "Uttarakhand",
+    "lat": 30.3979,
+    "lng": 80.4723,
+    "total_accidents": 506,
+    "severities": {
+      "Minor": 106,
+      "Moderate": 139,
+      "Severe": 134,
+      "Fatal": 127
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Shivamogga",
+    "state": "Karnataka",
+    "lat": 12.9414,
+    "lng": 77.8861,
+    "total_accidents": 505,
+    "severities": {
+      "Minor": 111,
+      "Moderate": 141,
+      "Severe": 135,
+      "Fatal": 118
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Malappuram",
+    "state": "Kerala",
+    "lat": 9.92,
+    "lng": 76.044,
+    "total_accidents": 505,
+    "severities": {
+      "Minor": 149,
+      "Moderate": 124,
+      "Severe": 120,
+      "Fatal": 112
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Morena",
+    "state": "Madhya Pradesh",
+    "lat": 26.0926,
+    "lng": 78.0339,
+    "total_accidents": 505,
+    "severities": {
+      "Minor": 139,
+      "Moderate": 116,
+      "Severe": 132,
+      "Fatal": 118
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Lawngtlai",
+    "state": "Mizoram",
+    "lat": 23.6971,
+    "lng": 92.3565,
+    "total_accidents": 505,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 124,
+      "Severe": 115,
+      "Fatal": 134
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Baripada",
+    "state": "Odisha",
+    "lat": 18.7024,
+    "lng": 82.2833,
+    "total_accidents": 505,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 117,
+      "Severe": 134,
+      "Fatal": 135
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Mangan",
+    "state": "Sikkim",
+    "lat": 27.9024,
+    "lng": 88.7171,
+    "total_accidents": 505,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 117,
+      "Severe": 114,
+      "Fatal": 146
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Melaghar",
+    "state": "Tripura",
+    "lat": 23.6578,
+    "lng": 91.3496,
+    "total_accidents": 505,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 131,
+      "Severe": 116,
+      "Fatal": 121
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Valpoi",
+    "state": "Goa",
+    "lat": 15.2226,
+    "lng": 74.1186,
+    "total_accidents": 504,
+    "severities": {
+      "Minor": 129,
+      "Moderate": 116,
+      "Severe": 127,
+      "Fatal": 132
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Bhuj",
+    "state": "Gujarat",
+    "lat": 21.7523,
+    "lng": 70.0245,
+    "total_accidents": 504,
+    "severities": {
+      "Minor": 131,
+      "Moderate": 140,
+      "Severe": 117,
+      "Fatal": 116
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Medininagar",
+    "state": "Jharkhand",
+    "lat": 23.8744,
+    "lng": 86.2882,
+    "total_accidents": 504,
+    "severities": {
+      "Minor": 140,
+      "Moderate": 123,
+      "Severe": 123,
+      "Fatal": 118
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Bidar",
+    "state": "Karnataka",
+    "lat": 17.0538,
+    "lng": 74.7066,
+    "total_accidents": 504,
+    "severities": {
+      "Minor": 130,
+      "Moderate": 123,
+      "Severe": 112,
+      "Fatal": 139
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Guna",
+    "state": "Madhya Pradesh",
+    "lat": 25.4941,
+    "lng": 76.5274,
+    "total_accidents": 504,
+    "severities": {
+      "Minor": 111,
+      "Moderate": 140,
+      "Severe": 128,
+      "Fatal": 125
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Mokokchung",
+    "state": "Nagaland",
+    "lat": 25.4894,
+    "lng": 94.9142,
+    "total_accidents": 504,
+    "severities": {
+      "Minor": 113,
+      "Moderate": 130,
+      "Severe": 118,
+      "Fatal": 143
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Mon",
+    "state": "Nagaland",
+    "lat": 26.028,
+    "lng": 94.5266,
+    "total_accidents": 504,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 118,
+      "Severe": 126,
+      "Fatal": 139
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Anugul",
+    "state": "Odisha",
+    "lat": 21.4634,
+    "lng": 84.6842,
+    "total_accidents": 504,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 121,
+      "Severe": 123,
+      "Fatal": 128
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Abohar",
+    "state": "Punjab",
+    "lat": 31.516,
+    "lng": 75.3016,
+    "total_accidents": 504,
+    "severities": {
+      "Minor": 123,
+      "Moderate": 145,
+      "Severe": 125,
+      "Fatal": 111
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Legship",
+    "state": "Sikkim",
+    "lat": 27.8368,
+    "lng": 88.1145,
+    "total_accidents": 504,
+    "severities": {
+      "Minor": 129,
+      "Moderate": 133,
+      "Severe": 118,
+      "Fatal": 124
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Haldia",
+    "state": "West Bengal",
+    "lat": 26.1968,
+    "lng": 87.1153,
+    "total_accidents": 504,
+    "severities": {
+      "Minor": 135,
+      "Moderate": 133,
+      "Severe": 125,
+      "Fatal": 111
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Thanesar",
+    "state": "Haryana",
+    "lat": 29.8097,
+    "lng": 77.1827,
+    "total_accidents": 503,
+    "severities": {
+      "Minor": 133,
+      "Moderate": 132,
+      "Severe": 106,
+      "Fatal": 132
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Noney",
+    "state": "Manipur",
+    "lat": 25.317,
+    "lng": 93.4853,
+    "total_accidents": 503,
+    "severities": {
+      "Minor": 117,
+      "Moderate": 136,
+      "Severe": 133,
+      "Fatal": 117
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Radhanagar",
+    "state": "Nagaland",
+    "lat": 26.424,
+    "lng": 93.5706,
+    "total_accidents": 503,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 124,
+      "Severe": 134,
+      "Fatal": 124
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Bathinda",
+    "state": "Punjab",
+    "lat": 31.6288,
+    "lng": 76.552,
+    "total_accidents": 503,
+    "severities": {
+      "Minor": 129,
+      "Moderate": 119,
+      "Severe": 135,
+      "Fatal": 120
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Bharatpur",
+    "state": "Rajasthan",
+    "lat": 26.3638,
+    "lng": 70.9784,
+    "total_accidents": 503,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 134,
+      "Severe": 106,
+      "Fatal": 145
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "lat": 11.6643,
+    "lng": 78.146,
+    "total_accidents": 503,
+    "severities": {
+      "Minor": 129,
+      "Moderate": 137,
+      "Severe": 126,
+      "Fatal": 111
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Bareilly",
+    "state": "Uttar Pradesh",
+    "lat": 28.367,
+    "lng": 79.4304,
+    "total_accidents": 503,
+    "severities": {
+      "Minor": 114,
+      "Moderate": 130,
+      "Severe": 122,
+      "Fatal": 137
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Kalyan-Dombivli",
+    "state": "Maharashtra",
+    "lat": 17.5712,
+    "lng": 76.0727,
+    "total_accidents": 502,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 138,
+      "Severe": 122,
+      "Fatal": 124
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Saiha",
+    "state": "Mizoram",
+    "lat": 22.9088,
+    "lng": 92.6541,
+    "total_accidents": 502,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 142,
+      "Severe": 123,
+      "Fatal": 118
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Ulhasnagar",
+    "state": "Maharashtra",
+    "lat": 19.143,
+    "lng": 79.9239,
+    "total_accidents": 501,
+    "severities": {
+      "Minor": 122,
+      "Moderate": 129,
+      "Severe": 121,
+      "Fatal": 129
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Senapati",
+    "state": "Manipur",
+    "lat": 24.4247,
+    "lng": 94.0757,
+    "total_accidents": 501,
+    "severities": {
+      "Minor": 125,
+      "Moderate": 111,
+      "Severe": 127,
+      "Fatal": 138
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Tseminyu",
+    "state": "Nagaland",
+    "lat": 26.4931,
+    "lng": 93.7104,
+    "total_accidents": 501,
+    "severities": {
+      "Minor": 130,
+      "Moderate": 128,
+      "Severe": 118,
+      "Fatal": 125
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Ranirbazar",
+    "state": "Tripura",
+    "lat": 23.2507,
+    "lng": 91.9784,
+    "total_accidents": 501,
+    "severities": {
+      "Minor": 135,
+      "Moderate": 122,
+      "Severe": 114,
+      "Fatal": 130
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Palakkad",
+    "state": "Kerala",
+    "lat": 11.8856,
+    "lng": 77.12,
+    "total_accidents": 500,
+    "severities": {
+      "Minor": 111,
+      "Moderate": 132,
+      "Severe": 127,
+      "Fatal": 130
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Baragarh",
+    "state": "Odisha",
+    "lat": 18.8675,
+    "lng": 84.3426,
+    "total_accidents": 500,
+    "severities": {
+      "Minor": 124,
+      "Moderate": 126,
+      "Severe": 126,
+      "Fatal": 124
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Adilabad",
+    "state": "Telangana",
+    "lat": 17.9648,
+    "lng": 79.0302,
+    "total_accidents": 500,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 121,
+      "Severe": 128,
+      "Fatal": 130
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Ramnagar",
+    "state": "Uttarakhand",
+    "lat": 30.9714,
+    "lng": 78.0026,
+    "total_accidents": 500,
+    "severities": {
+      "Minor": 125,
+      "Moderate": 112,
+      "Severe": 128,
+      "Fatal": 135
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Mira-Bhayandar",
+    "state": "Maharashtra",
+    "lat": 20.6278,
+    "lng": 73.8218,
+    "total_accidents": 499,
+    "severities": {
+      "Minor": 124,
+      "Moderate": 118,
+      "Severe": 132,
+      "Fatal": 125
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Mohali",
+    "state": "Punjab",
+    "lat": 31.7488,
+    "lng": 74.3632,
+    "total_accidents": 499,
+    "severities": {
+      "Minor": 138,
+      "Moderate": 116,
+      "Severe": 136,
+      "Fatal": 109
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Barmer",
+    "state": "Rajasthan",
+    "lat": 28.3798,
+    "lng": 71.1051,
+    "total_accidents": 499,
+    "severities": {
+      "Minor": 140,
+      "Moderate": 98,
+      "Severe": 132,
+      "Fatal": 129
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Rangpo",
+    "state": "Sikkim",
+    "lat": 27.9008,
+    "lng": 88.1404,
+    "total_accidents": 499,
+    "severities": {
+      "Minor": 130,
+      "Moderate": 125,
+      "Severe": 117,
+      "Fatal": 127
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Mahbubnagar",
+    "state": "Telangana",
+    "lat": 17.9156,
+    "lng": 80.6407,
+    "total_accidents": 499,
+    "severities": {
+      "Minor": 127,
+      "Moderate": 138,
+      "Severe": 113,
+      "Fatal": 121
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "lat": 16.4855,
+    "lng": 78.0856,
+    "total_accidents": 499,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 138,
+      "Severe": 115,
+      "Fatal": 128
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Khowai",
+    "state": "Tripura",
+    "lat": 24.2658,
+    "lng": 91.8498,
+    "total_accidents": 499,
+    "severities": {
+      "Minor": 127,
+      "Moderate": 124,
+      "Severe": 129,
+      "Fatal": 119
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "lat": 27.1767,
+    "lng": 78.0081,
+    "total_accidents": 499,
+    "severities": {
+      "Minor": 120,
+      "Moderate": 136,
+      "Severe": 110,
+      "Fatal": 133
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Mirzapur",
+    "state": "Uttar Pradesh",
+    "lat": 29.0844,
+    "lng": 79.818,
+    "total_accidents": 499,
+    "severities": {
+      "Minor": 124,
+      "Moderate": 106,
+      "Severe": 125,
+      "Fatal": 144
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Sahibganj",
+    "state": "Jharkhand",
+    "lat": 24.5265,
+    "lng": 86.6267,
+    "total_accidents": 498,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 116,
+      "Severe": 128,
+      "Fatal": 133
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Shivpuri",
+    "state": "Madhya Pradesh",
+    "lat": 23.5917,
+    "lng": 78.3789,
+    "total_accidents": 498,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 134,
+      "Severe": 119,
+      "Fatal": 124
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "lat": 27.199,
+    "lng": 77.1736,
+    "total_accidents": 498,
+    "severities": {
+      "Minor": 125,
+      "Moderate": 123,
+      "Severe": 116,
+      "Fatal": 134
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Nagercoil",
+    "state": "Tamil Nadu",
+    "lat": 10.247,
+    "lng": 78.5813,
+    "total_accidents": 498,
+    "severities": {
+      "Minor": 105,
+      "Moderate": 131,
+      "Severe": 126,
+      "Fatal": 136
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Bageshwar",
+    "state": "Uttarakhand",
+    "lat": 30.9938,
+    "lng": 79.1178,
+    "total_accidents": 498,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 116,
+      "Severe": 120,
+      "Fatal": 126
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Nadiad",
+    "state": "Gujarat",
+    "lat": 23.8352,
+    "lng": 71.4458,
+    "total_accidents": 497,
+    "severities": {
+      "Minor": 122,
+      "Moderate": 123,
+      "Severe": 129,
+      "Fatal": 123
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Kullu",
+    "state": "Himachal Pradesh",
+    "lat": 31.3587,
+    "lng": 75.9672,
+    "total_accidents": 497,
+    "severities": {
+      "Minor": 130,
+      "Moderate": 127,
+      "Severe": 115,
+      "Fatal": 125
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Davanagere",
+    "state": "Karnataka",
+    "lat": 17.3518,
+    "lng": 74.9678,
+    "total_accidents": 497,
+    "severities": {
+      "Minor": 110,
+      "Moderate": 131,
+      "Severe": 126,
+      "Fatal": 130
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Kayamkulam",
+    "state": "Kerala",
+    "lat": 10.4708,
+    "lng": 75.962,
+    "total_accidents": 497,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 125,
+      "Severe": 121,
+      "Fatal": 119
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Solapur",
+    "state": "Maharashtra",
+    "lat": 17.6685,
+    "lng": 73.6956,
+    "total_accidents": 497,
+    "severities": {
+      "Minor": 115,
+      "Moderate": 116,
+      "Severe": 129,
+      "Fatal": 137
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Churachandpur",
+    "state": "Manipur",
+    "lat": 24.4658,
+    "lng": 93.4766,
+    "total_accidents": 497,
+    "severities": {
+      "Minor": 134,
+      "Moderate": 123,
+      "Severe": 117,
+      "Fatal": 123
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Resubelpara",
+    "state": "Meghalaya",
+    "lat": 25.9759,
+    "lng": 90.5632,
+    "total_accidents": 497,
+    "severities": {
+      "Minor": 141,
+      "Moderate": 118,
+      "Severe": 122,
+      "Fatal": 116
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Zirakpur",
+    "state": "Punjab",
+    "lat": 30.1408,
+    "lng": 75.7552,
+    "total_accidents": 497,
+    "severities": {
+      "Minor": 115,
+      "Moderate": 136,
+      "Severe": 126,
+      "Fatal": 120
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "lat": 9.2794,
+    "lng": 77.4267,
+    "total_accidents": 497,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 123,
+      "Severe": 126,
+      "Fatal": 130
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Pithoragarh",
+    "state": "Uttarakhand",
+    "lat": 30.1358,
+    "lng": 79.145,
+    "total_accidents": 497,
+    "severities": {
+      "Minor": 150,
+      "Moderate": 91,
+      "Severe": 123,
+      "Fatal": 133
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Navsari",
+    "state": "Gujarat",
+    "lat": 23.055,
+    "lng": 69.5154,
+    "total_accidents": 496,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 123,
+      "Severe": 109,
+      "Fatal": 127
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Hamirpur",
+    "state": "Himachal Pradesh",
+    "lat": 32.6781,
+    "lng": 77.9338,
+    "total_accidents": 496,
+    "severities": {
+      "Minor": 105,
+      "Moderate": 129,
+      "Severe": 128,
+      "Fatal": 134
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Ghatshila",
+    "state": "Jharkhand",
+    "lat": 23.9298,
+    "lng": 84.6616,
+    "total_accidents": 496,
+    "severities": {
+      "Minor": 115,
+      "Moderate": 119,
+      "Severe": 126,
+      "Fatal": 136
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Chhindwara",
+    "state": "Madhya Pradesh",
+    "lat": 24.812,
+    "lng": 79.8432,
+    "total_accidents": 496,
+    "severities": {
+      "Minor": 117,
+      "Moderate": 116,
+      "Severe": 140,
+      "Fatal": 123
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Nongpoh",
+    "state": "Meghalaya",
+    "lat": 25.4224,
+    "lng": 91.9744,
+    "total_accidents": 496,
+    "severities": {
+      "Minor": 133,
+      "Moderate": 116,
+      "Severe": 126,
+      "Fatal": 121
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Gadwal",
+    "state": "Telangana",
+    "lat": 16.5741,
+    "lng": 77.8658,
+    "total_accidents": 496,
+    "severities": {
+      "Minor": 123,
+      "Moderate": 132,
+      "Severe": 134,
+      "Fatal": 107
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Khliehriat",
+    "state": "Meghalaya",
+    "lat": 25.4294,
+    "lng": 90.8032,
+    "total_accidents": 495,
+    "severities": {
+      "Minor": 116,
+      "Moderate": 132,
+      "Severe": 136,
+      "Fatal": 111
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Puri",
+    "state": "Odisha",
+    "lat": 19.7776,
+    "lng": 82.3272,
+    "total_accidents": 495,
+    "severities": {
+      "Minor": 134,
+      "Moderate": 139,
+      "Severe": 120,
+      "Fatal": 102
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Soreng",
+    "state": "Sikkim",
+    "lat": 27.4128,
+    "lng": 88.5177,
+    "total_accidents": 495,
+    "severities": {
+      "Minor": 131,
+      "Moderate": 125,
+      "Severe": 113,
+      "Fatal": 126
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "lat": 10.7905,
+    "lng": 78.7047,
+    "total_accidents": 495,
+    "severities": {
+      "Minor": 117,
+      "Moderate": 118,
+      "Severe": 139,
+      "Fatal": 121
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Sonamura",
+    "state": "Tripura",
+    "lat": 23.2418,
+    "lng": 91.5954,
+    "total_accidents": 495,
+    "severities": {
+      "Minor": 117,
+      "Moderate": 125,
+      "Severe": 140,
+      "Fatal": 113
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Buxar",
+    "state": "Bihar",
+    "lat": 26.4606,
+    "lng": 87.108,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 127,
+      "Moderate": 132,
+      "Severe": 130,
+      "Fatal": 105
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Morbi",
+    "state": "Gujarat",
+    "lat": 22.2786,
+    "lng": 71.3298,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 130,
+      "Moderate": 139,
+      "Severe": 105,
+      "Fatal": 120
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Veraval",
+    "state": "Gujarat",
+    "lat": 22.3448,
+    "lng": 72.7914,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 148,
+      "Moderate": 131,
+      "Severe": 105,
+      "Fatal": 110
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Bhiwani",
+    "state": "Haryana",
+    "lat": 30.3773,
+    "lng": 75.1347,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 130,
+      "Severe": 130,
+      "Fatal": 116
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Gumia",
+    "state": "Jharkhand",
+    "lat": 24.5001,
+    "lng": 87.2928,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 130,
+      "Moderate": 120,
+      "Severe": 127,
+      "Fatal": 117
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Paradip",
+    "state": "Odisha",
+    "lat": 18.7946,
+    "lng": 83.1226,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 145,
+      "Moderate": 117,
+      "Severe": 114,
+      "Fatal": 118
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Jorethang",
+    "state": "Sikkim",
+    "lat": 27.7472,
+    "lng": 88.715,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 127,
+      "Moderate": 129,
+      "Severe": 125,
+      "Fatal": 113
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Bhongir",
+    "state": "Telangana",
+    "lat": 17.6794,
+    "lng": 78.4825,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 117,
+      "Moderate": 123,
+      "Severe": 122,
+      "Fatal": 132
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Amarpur",
+    "state": "Tripura",
+    "lat": 24.3246,
+    "lng": 91.2248,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 124,
+      "Moderate": 121,
+      "Severe": 109,
+      "Fatal": 140
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Kailasahar",
+    "state": "Tripura",
+    "lat": 23.3736,
+    "lng": 91.9467,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 132,
+      "Severe": 122,
+      "Fatal": 122
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "lat": 25.3924,
+    "lng": 82.116,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 139,
+      "Moderate": 122,
+      "Severe": 114,
+      "Fatal": 119
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Tehri",
+    "state": "Uttarakhand",
+    "lat": 31.1595,
+    "lng": 79.0144,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 108,
+      "Severe": 128,
+      "Fatal": 126
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Medinipur",
+    "state": "West Bengal",
+    "lat": 22.6263,
+    "lng": 88.7717,
+    "total_accidents": 494,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 118,
+      "Severe": 124,
+      "Fatal": 133
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Jiribam",
+    "state": "Manipur",
+    "lat": 24.0006,
+    "lng": 93.2016,
+    "total_accidents": 493,
+    "severities": {
+      "Minor": 133,
+      "Moderate": 113,
+      "Severe": 117,
+      "Fatal": 130
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Shella",
+    "state": "Meghalaya",
+    "lat": 25.6521,
+    "lng": 91.3024,
+    "total_accidents": 493,
+    "severities": {
+      "Minor": 136,
+      "Moderate": 127,
+      "Severe": 107,
+      "Fatal": 123
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Tonk",
+    "state": "Rajasthan",
+    "lat": 29.3706,
+    "lng": 73.4917,
+    "total_accidents": 493,
+    "severities": {
+      "Minor": 133,
+      "Moderate": 117,
+      "Severe": 117,
+      "Fatal": 126
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Aligarh",
+    "state": "Uttar Pradesh",
+    "lat": 29.2664,
+    "lng": 82.782,
+    "total_accidents": 493,
+    "severities": {
+      "Minor": 110,
+      "Moderate": 116,
+      "Severe": 127,
+      "Fatal": 140
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Durgapur",
+    "state": "West Bengal",
+    "lat": 23.5204,
+    "lng": 87.3119,
+    "total_accidents": 493,
+    "severities": {
+      "Minor": 107,
+      "Moderate": 143,
+      "Severe": 114,
+      "Fatal": 129
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Dawki",
+    "state": "Meghalaya",
+    "lat": 25.2464,
+    "lng": 90.22,
+    "total_accidents": 492,
+    "severities": {
+      "Minor": 129,
+      "Moderate": 125,
+      "Severe": 130,
+      "Fatal": 108
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Thanjavur",
+    "state": "Tamil Nadu",
+    "lat": 12.7138,
+    "lng": 76.7871,
+    "total_accidents": 492,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 127,
+      "Severe": 134,
+      "Fatal": 112
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Purulia",
+    "state": "West Bengal",
+    "lat": 26.3382,
+    "lng": 86.5183,
+    "total_accidents": 492,
+    "severities": {
+      "Minor": 127,
+      "Moderate": 102,
+      "Severe": 133,
+      "Fatal": 130
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Paonta Sahib",
+    "state": "Himachal Pradesh",
+    "lat": 30.8166,
+    "lng": 76.4051,
+    "total_accidents": 491,
+    "severities": {
+      "Minor": 131,
+      "Moderate": 106,
+      "Severe": 118,
+      "Fatal": 136
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Rewa",
+    "state": "Madhya Pradesh",
+    "lat": 23.7077,
+    "lng": 80.3782,
+    "total_accidents": 491,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 132,
+      "Severe": 115,
+      "Fatal": 125
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Hnahthial",
+    "state": "Mizoram",
+    "lat": 23.4829,
+    "lng": 93.0554,
+    "total_accidents": 491,
+    "severities": {
+      "Minor": 123,
+      "Moderate": 134,
+      "Severe": 122,
+      "Fatal": 112
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Alwar",
+    "state": "Rajasthan",
+    "lat": 26.8765,
+    "lng": 70.8446,
+    "total_accidents": 491,
+    "severities": {
+      "Minor": 120,
+      "Moderate": 140,
+      "Severe": 116,
+      "Fatal": 115
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Geyzing",
+    "state": "Sikkim",
+    "lat": 27.356,
+    "lng": 88.7553,
+    "total_accidents": 491,
+    "severities": {
+      "Minor": 120,
+      "Moderate": 121,
+      "Severe": 129,
+      "Fatal": 121
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Balurghat",
+    "state": "West Bengal",
+    "lat": 26.3564,
+    "lng": 87.827,
+    "total_accidents": 491,
+    "severities": {
+      "Minor": 125,
+      "Moderate": 132,
+      "Severe": 124,
+      "Fatal": 110
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Quepem",
+    "state": "Goa",
+    "lat": 15.116,
+    "lng": 73.8646,
+    "total_accidents": 490,
+    "severities": {
+      "Minor": 120,
+      "Moderate": 119,
+      "Severe": 132,
+      "Fatal": 119
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Valsad",
+    "state": "Gujarat",
+    "lat": 21.2702,
+    "lng": 71.35,
+    "total_accidents": 490,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 123,
+      "Severe": 117,
+      "Fatal": 132
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Champhai",
+    "state": "Mizoram",
+    "lat": 22.2203,
+    "lng": 92.4352,
+    "total_accidents": 490,
+    "severities": {
+      "Minor": 124,
+      "Moderate": 127,
+      "Severe": 125,
+      "Fatal": 114
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Firozpur",
+    "state": "Punjab",
+    "lat": 30.7816,
+    "lng": 75.6304,
+    "total_accidents": 490,
+    "severities": {
+      "Minor": 113,
+      "Moderate": 138,
+      "Severe": 114,
+      "Fatal": 125
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Phagwara",
+    "state": "Punjab",
+    "lat": 31.876,
+    "lng": 75.244,
+    "total_accidents": 490,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 142,
+      "Severe": 130,
+      "Fatal": 100
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Chittorgarh",
+    "state": "Rajasthan",
+    "lat": 24.0253,
+    "lng": 73.3579,
+    "total_accidents": 490,
+    "severities": {
+      "Minor": 134,
+      "Moderate": 120,
+      "Severe": 117,
+      "Fatal": 119
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Wanaparthy",
+    "state": "Telangana",
+    "lat": 19.2178,
+    "lng": 78.9974,
+    "total_accidents": 490,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 122,
+      "Severe": 105,
+      "Fatal": 145
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Rampur",
+    "state": "Uttar Pradesh",
+    "lat": 25.226,
+    "lng": 78.78,
+    "total_accidents": 490,
+    "severities": {
+      "Minor": 117,
+      "Moderate": 121,
+      "Severe": 130,
+      "Fatal": 122
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Mawsynram",
+    "state": "Meghalaya",
+    "lat": 25.1285,
+    "lng": 90.604,
+    "total_accidents": 489,
+    "severities": {
+      "Minor": 123,
+      "Moderate": 119,
+      "Severe": 127,
+      "Fatal": 120
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Nirmal",
+    "state": "Telangana",
+    "lat": 16.3412,
+    "lng": 79.6698,
+    "total_accidents": 489,
+    "severities": {
+      "Minor": 113,
+      "Moderate": 125,
+      "Severe": 114,
+      "Fatal": 137
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Habra",
+    "state": "West Bengal",
+    "lat": 23.6341,
+    "lng": 86.5216,
+    "total_accidents": 489,
+    "severities": {
+      "Minor": 122,
+      "Moderate": 123,
+      "Severe": 116,
+      "Fatal": 128
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Kottayam",
+    "state": "Kerala",
+    "lat": 11.072,
+    "lng": 75.306,
+    "total_accidents": 488,
+    "severities": {
+      "Minor": 117,
+      "Moderate": 115,
+      "Severe": 142,
+      "Fatal": 114
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Kolasib",
+    "state": "Mizoram",
+    "lat": 23.0918,
+    "lng": 92.4227,
+    "total_accidents": 488,
+    "severities": {
+      "Minor": 111,
+      "Moderate": 126,
+      "Severe": 124,
+      "Fatal": 127
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Tuensang",
+    "state": "Nagaland",
+    "lat": 26.7077,
+    "lng": 93.7058,
+    "total_accidents": 488,
+    "severities": {
+      "Minor": 123,
+      "Moderate": 117,
+      "Severe": 123,
+      "Fatal": 125
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Rayagada",
+    "state": "Odisha",
+    "lat": 20.4074,
+    "lng": 84.6062,
+    "total_accidents": 488,
+    "severities": {
+      "Minor": 125,
+      "Moderate": 121,
+      "Severe": 108,
+      "Fatal": 134
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Bikaner",
+    "state": "Rajasthan",
+    "lat": 28.0229,
+    "lng": 73.3119,
+    "total_accidents": 488,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 125,
+      "Severe": 132,
+      "Fatal": 113
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "lat": 28.9845,
+    "lng": 77.7064,
+    "total_accidents": 488,
+    "severities": {
+      "Minor": 127,
+      "Moderate": 107,
+      "Severe": 126,
+      "Fatal": 128
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Beawar",
+    "state": "Rajasthan",
+    "lat": 27.6022,
+    "lng": 74.076,
+    "total_accidents": 487,
+    "severities": {
+      "Minor": 115,
+      "Moderate": 127,
+      "Severe": 118,
+      "Fatal": 127
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Ravangla",
+    "state": "Sikkim",
+    "lat": 27.2472,
+    "lng": 88.7531,
+    "total_accidents": 487,
+    "severities": {
+      "Minor": 117,
+      "Moderate": 119,
+      "Severe": 119,
+      "Fatal": 132
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Sanquelim",
+    "state": "Goa",
+    "lat": 15.2686,
+    "lng": 73.9184,
+    "total_accidents": 486,
+    "severities": {
+      "Minor": 125,
+      "Moderate": 121,
+      "Severe": 125,
+      "Fatal": 115
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Palwal",
+    "state": "Haryana",
+    "lat": 29.5008,
+    "lng": 76.7501,
+    "total_accidents": 486,
+    "severities": {
+      "Minor": 120,
+      "Moderate": 110,
+      "Severe": 131,
+      "Fatal": 125
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Sonipat",
+    "state": "Haryana",
+    "lat": 29.4005,
+    "lng": 74.7379,
+    "total_accidents": 486,
+    "severities": {
+      "Minor": 125,
+      "Moderate": 119,
+      "Severe": 110,
+      "Fatal": 132
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Ponnani",
+    "state": "Kerala",
+    "lat": 9.7904,
+    "lng": 76.996,
+    "total_accidents": 486,
+    "severities": {
+      "Minor": 96,
+      "Moderate": 120,
+      "Severe": 146,
+      "Fatal": 124
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Khandwa",
+    "state": "Madhya Pradesh",
+    "lat": 22.5384,
+    "lng": 78.9984,
+    "total_accidents": 486,
+    "severities": {
+      "Minor": 122,
+      "Moderate": 116,
+      "Severe": 123,
+      "Fatal": 125
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "lat": 26.4896,
+    "lng": 79.5,
+    "total_accidents": 486,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 128,
+      "Severe": 120,
+      "Fatal": 120
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Manali",
+    "state": "Himachal Pradesh",
+    "lat": 31.8493,
+    "lng": 76.5765,
+    "total_accidents": 485,
+    "severities": {
+      "Minor": 116,
+      "Moderate": 115,
+      "Severe": 110,
+      "Fatal": 144
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Kishangarh",
+    "state": "Rajasthan",
+    "lat": 25.425,
+    "lng": 76.5822,
+    "total_accidents": 485,
+    "severities": {
+      "Minor": 133,
+      "Moderate": 118,
+      "Severe": 114,
+      "Fatal": 120
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Ramgarh",
+    "state": "Jharkhand",
+    "lat": 23.159,
+    "lng": 86.1005,
+    "total_accidents": 484,
+    "severities": {
+      "Minor": 120,
+      "Moderate": 118,
+      "Severe": 128,
+      "Fatal": 118
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Udupi",
+    "state": "Karnataka",
+    "lat": 16.1264,
+    "lng": 75.8142,
+    "total_accidents": 484,
+    "severities": {
+      "Minor": 102,
+      "Moderate": 121,
+      "Severe": 128,
+      "Fatal": 133
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Satna",
+    "state": "Madhya Pradesh",
+    "lat": 23.2762,
+    "lng": 77.6749,
+    "total_accidents": 484,
+    "severities": {
+      "Minor": 133,
+      "Moderate": 119,
+      "Severe": 103,
+      "Fatal": 129
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Kanhangad",
+    "state": "Kerala",
+    "lat": 10.6436,
+    "lng": 75.494,
+    "total_accidents": 483,
+    "severities": {
+      "Minor": 115,
+      "Moderate": 105,
+      "Severe": 137,
+      "Fatal": 126
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Murwara",
+    "state": "Madhya Pradesh",
+    "lat": 22.1811,
+    "lng": 75.0349,
+    "total_accidents": 483,
+    "severities": {
+      "Minor": 137,
+      "Moderate": 113,
+      "Severe": 116,
+      "Fatal": 117
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "lat": 25.1043,
+    "lng": 81.5258,
+    "total_accidents": 483,
+    "severities": {
+      "Minor": 112,
+      "Moderate": 109,
+      "Severe": 149,
+      "Fatal": 113
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Moirang",
+    "state": "Manipur",
+    "lat": 24.104,
+    "lng": 94.2744,
+    "total_accidents": 483,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 93,
+      "Severe": 125,
+      "Fatal": 137
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Sanguem",
+    "state": "Goa",
+    "lat": 15.543,
+    "lng": 74.169,
+    "total_accidents": 482,
+    "severities": {
+      "Minor": 120,
+      "Moderate": 133,
+      "Severe": 109,
+      "Fatal": 120
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Giridih",
+    "state": "Jharkhand",
+    "lat": 23.7714,
+    "lng": 86.7334,
+    "total_accidents": 482,
+    "severities": {
+      "Minor": 111,
+      "Moderate": 125,
+      "Severe": 121,
+      "Fatal": 125
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Williamnagar",
+    "state": "Meghalaya",
+    "lat": 25.8422,
+    "lng": 91.096,
+    "total_accidents": 482,
+    "severities": {
+      "Minor": 125,
+      "Moderate": 115,
+      "Severe": 127,
+      "Fatal": 115
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Saitual",
+    "state": "Mizoram",
+    "lat": 22.6509,
+    "lng": 92.3238,
+    "total_accidents": 482,
+    "severities": {
+      "Minor": 125,
+      "Moderate": 119,
+      "Severe": 108,
+      "Fatal": 130
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Dhenkanal",
+    "state": "Odisha",
+    "lat": 19.5626,
+    "lng": 85.9286,
+    "total_accidents": 482,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 128,
+      "Severe": 127,
+      "Fatal": 106
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Bahadurgarh",
+    "state": "Haryana",
+    "lat": 28.4131,
+    "lng": 74.7712,
+    "total_accidents": 481,
+    "severities": {
+      "Minor": 110,
+      "Moderate": 128,
+      "Severe": 129,
+      "Fatal": 114
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Kolar",
+    "state": "Karnataka",
+    "lat": 13.659,
+    "lng": 77.853,
+    "total_accidents": 481,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 114,
+      "Severe": 130,
+      "Fatal": 116
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Tamenglong",
+    "state": "Manipur",
+    "lat": 24.297,
+    "lng": 94.0066,
+    "total_accidents": 481,
+    "severities": {
+      "Minor": 114,
+      "Moderate": 133,
+      "Severe": 121,
+      "Fatal": 113
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "lat": 25.7763,
+    "lng": 73.6606,
+    "total_accidents": 481,
+    "severities": {
+      "Minor": 112,
+      "Moderate": 116,
+      "Severe": 113,
+      "Fatal": 140
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Teliamura",
+    "state": "Tripura",
+    "lat": 24.1966,
+    "lng": 91.4101,
+    "total_accidents": 481,
+    "severities": {
+      "Minor": 126,
+      "Moderate": 119,
+      "Severe": 129,
+      "Fatal": 107
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Clear",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Sangli",
+    "state": "Maharashtra",
+    "lat": 20.2797,
+    "lng": 75.5614,
+    "total_accidents": 480,
+    "severities": {
+      "Minor": 122,
+      "Moderate": 125,
+      "Severe": 117,
+      "Fatal": 116
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Sunny",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "lat": 26.4428,
+    "lng": 83.832,
+    "total_accidents": 480,
+    "severities": {
+      "Minor": 110,
+      "Moderate": 109,
+      "Severe": 146,
+      "Fatal": 115
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Nawada",
+    "state": "Bihar",
+    "lat": 26.5323,
+    "lng": 84.272,
+    "total_accidents": 479,
+    "severities": {
+      "Minor": 111,
+      "Moderate": 136,
+      "Severe": 114,
+      "Fatal": 118
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Tumakuru",
+    "state": "Karnataka",
+    "lat": 15.5854,
+    "lng": 76.3662,
+    "total_accidents": 479,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 126,
+      "Severe": 105,
+      "Fatal": 127
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Rainy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Bharuch",
+    "state": "Gujarat",
+    "lat": 21.2003,
+    "lng": 72.8267,
+    "total_accidents": 478,
+    "severities": {
+      "Minor": 126,
+      "Moderate": 118,
+      "Severe": 110,
+      "Fatal": 124
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Bilaspur",
+    "state": "Himachal Pradesh",
+    "lat": 22.0797,
+    "lng": 82.1409,
+    "total_accidents": 478,
+    "severities": {
+      "Minor": 98,
+      "Moderate": 130,
+      "Severe": 122,
+      "Fatal": 128
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "National Highway"
+  },
+  {
+    "city": "Champa",
+    "state": "Chhattisgarh",
+    "lat": 22.0185,
+    "lng": 80.8418,
+    "total_accidents": 477,
+    "severities": {
+      "Minor": 123,
+      "Moderate": 119,
+      "Severe": 118,
+      "Fatal": 117
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Thenzawl",
+    "state": "Mizoram",
+    "lat": 23.5328,
+    "lng": 92.7376,
+    "total_accidents": 477,
+    "severities": {
+      "Minor": 100,
+      "Moderate": 133,
+      "Severe": 117,
+      "Fatal": 127
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Chandel",
+    "state": "Manipur",
+    "lat": 24.2241,
+    "lng": 93.5112,
+    "total_accidents": 476,
+    "severities": {
+      "Minor": 139,
+      "Moderate": 113,
+      "Severe": 128,
+      "Fatal": 96
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Rainy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Jeypore",
+    "state": "Odisha",
+    "lat": 18.7715,
+    "lng": 85.8018,
+    "total_accidents": 476,
+    "severities": {
+      "Minor": 114,
+      "Moderate": 118,
+      "Severe": 132,
+      "Fatal": 112
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Ajmer",
+    "state": "Rajasthan",
+    "lat": 26.4499,
+    "lng": 74.6399,
+    "total_accidents": 475,
+    "severities": {
+      "Minor": 121,
+      "Moderate": 126,
+      "Severe": 116,
+      "Fatal": 112
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "lat": 9.6068,
+    "lng": 76.154,
+    "total_accidents": 474,
+    "severities": {
+      "Minor": 122,
+      "Moderate": 110,
+      "Severe": 124,
+      "Fatal": 118
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Cloudy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Bhiwandi",
+    "state": "Maharashtra",
+    "lat": 19.1738,
+    "lng": 73.7022,
+    "total_accidents": 474,
+    "severities": {
+      "Minor": 117,
+      "Moderate": 109,
+      "Severe": 123,
+      "Fatal": 125
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Suryapet",
+    "state": "Telangana",
+    "lat": 19.2178,
+    "lng": 79.2434,
+    "total_accidents": 473,
+    "severities": {
+      "Minor": 119,
+      "Moderate": 118,
+      "Severe": 125,
+      "Fatal": 111
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Pernem",
+    "state": "Goa",
+    "lat": 15.4904,
+    "lng": 73.9592,
+    "total_accidents": 472,
+    "severities": {
+      "Minor": 110,
+      "Moderate": 119,
+      "Severe": 111,
+      "Fatal": 132
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Porbandar",
+    "state": "Gujarat",
+    "lat": 23.1765,
+    "lng": 71.2996,
+    "total_accidents": 472,
+    "severities": {
+      "Minor": 132,
+      "Moderate": 107,
+      "Severe": 121,
+      "Fatal": 112
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Pathankot",
+    "state": "Punjab",
+    "lat": 31.2568,
+    "lng": 75.7408,
+    "total_accidents": 472,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 114,
+      "Severe": 112,
+      "Fatal": 118
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "lat": 22.8029,
+    "lng": 75.1053,
+    "total_accidents": 471,
+    "severities": {
+      "Minor": 107,
+      "Moderate": 141,
+      "Severe": 93,
+      "Fatal": 130
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Singrauli",
+    "state": "Madhya Pradesh",
+    "lat": 22.8864,
+    "lng": 75.4291,
+    "total_accidents": 471,
+    "severities": {
+      "Minor": 116,
+      "Moderate": 108,
+      "Severe": 114,
+      "Fatal": 133
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "lat": 30.0869,
+    "lng": 78.2676,
+    "total_accidents": 471,
+    "severities": {
+      "Minor": 112,
+      "Moderate": 120,
+      "Severe": 116,
+      "Fatal": 123
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Dumka",
+    "state": "Jharkhand",
+    "lat": 23.3015,
+    "lng": 86.0894,
+    "total_accidents": 470,
+    "severities": {
+      "Minor": 118,
+      "Moderate": 128,
+      "Severe": 116,
+      "Fatal": 108
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Clear",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Jind",
+    "state": "Haryana",
+    "lat": 28.4527,
+    "lng": 77.2109,
+    "total_accidents": 469,
+    "severities": {
+      "Minor": 99,
+      "Moderate": 125,
+      "Severe": 117,
+      "Fatal": 128
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Belonia",
+    "state": "Tripura",
+    "lat": 23.4875,
+    "lng": 92.0331,
+    "total_accidents": 469,
+    "severities": {
+      "Minor": 122,
+      "Moderate": 111,
+      "Severe": 125,
+      "Fatal": 111
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Foggy",
+    "top_road_type": "State Highway"
+  },
+  {
+    "city": "Rudrapur",
+    "state": "Uttarakhand",
+    "lat": 30.7138,
+    "lng": 79.9691,
+    "total_accidents": 468,
+    "severities": {
+      "Minor": 128,
+      "Moderate": 118,
+      "Severe": 110,
+      "Fatal": 112
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Foggy",
+    "top_road_type": "City Road"
+  },
+  {
+    "city": "Jalpaiguri",
+    "state": "West Bengal",
+    "lat": 24.6738,
+    "lng": 86.8562,
+    "total_accidents": 468,
+    "severities": {
+      "Minor": 104,
+      "Moderate": 125,
+      "Severe": 104,
+      "Fatal": 135
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Ukhrul",
+    "state": "Manipur",
+    "lat": 24.5478,
+    "lng": 93.8136,
+    "total_accidents": 466,
+    "severities": {
+      "Minor": 122,
+      "Moderate": 102,
+      "Severe": 117,
+      "Fatal": 125
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Kapurthala",
+    "state": "Punjab",
+    "lat": 29.8864,
+    "lng": 74.8216,
+    "total_accidents": 466,
+    "severities": {
+      "Minor": 113,
+      "Moderate": 111,
+      "Severe": 133,
+      "Fatal": 109
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "lat": 25.3176,
+    "lng": 82.9739,
+    "total_accidents": 461,
+    "severities": {
+      "Minor": 117,
+      "Moderate": 111,
+      "Severe": 114,
+      "Fatal": 119
+    },
+    "dominant_severity": "Fatal",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Canacona",
+    "state": "Goa",
+    "lat": 15.1261,
+    "lng": 73.8291,
+    "total_accidents": 460,
+    "severities": {
+      "Minor": 135,
+      "Moderate": 117,
+      "Severe": 109,
+      "Fatal": 99
+    },
+    "dominant_severity": "Minor",
+    "top_weather": "Clear",
+    "top_road_type": "Expressway"
+  },
+  {
+    "city": "Rupnagar",
+    "state": "Punjab",
+    "lat": 29.8192,
+    "lng": 76.4824,
+    "total_accidents": 458,
+    "severities": {
+      "Minor": 108,
+      "Moderate": 124,
+      "Severe": 125,
+      "Fatal": 101
+    },
+    "dominant_severity": "Severe",
+    "top_weather": "Sunny",
+    "top_road_type": "Rural Road"
+  },
+  {
+    "city": "Roorkee",
+    "state": "Uttarakhand",
+    "lat": 30.9154,
+    "lng": 79.9365,
+    "total_accidents": 456,
+    "severities": {
+      "Minor": 106,
+      "Moderate": 132,
+      "Severe": 107,
+      "Fatal": 111
+    },
+    "dominant_severity": "Moderate",
+    "top_weather": "Cloudy",
+    "top_road_type": "Rural Road"
+  }
+]

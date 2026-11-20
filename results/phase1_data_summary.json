@@ -1,0 +1,346 @@
+{
+  "shape": {
+    "rows": 500000,
+    "columns": 14
+  },
+  "columns": [
+    "city",
+    "state",
+    "month",
+    "hour",
+    "day_of_week",
+    "road_type",
+    "lanes",
+    "traffic_signal",
+    "weather",
+    "visibility",
+    "temperature",
+    "traffic_density",
+    "festival",
+    "accident_severity"
+  ],
+  "dtypes": {
+    "city": "str",
+    "state": "str",
+    "month": "int64",
+    "hour": "int64",
+    "day_of_week": "str",
+    "road_type": "str",
+    "lanes": "int64",
+    "traffic_signal": "int64",
+    "weather": "str",
+    "visibility": "str",
+    "temperature": "float64",
+    "traffic_density": "str",
+    "festival": "str",
+    "accident_severity": "str"
+  },
+  "missing_values": {
+    "city": 0,
+    "state": 0,
+    "month": 0,
+    "hour": 0,
+    "day_of_week": 0,
+    "road_type": 0,
+    "lanes": 0,
+    "traffic_signal": 0,
+    "weather": 0,
+    "visibility": 0,
+    "temperature": 0,
+    "traffic_density": 0,
+    "festival": 0,
+    "accident_severity": 0
+  },
+  "duplicate_rows": 0,
+  "target_distribution": {
+    "counts": {
+      "Moderate": 125356,
+      "Fatal": 125118,
+      "Minor": 125005,
+      "Severe": 124521
+    },
+    "percentages": {
+      "Moderate": 25.07,
+      "Fatal": 25.02,
+      "Minor": 25.0,
+      "Severe": 24.9
+    }
+  },
+  "categorical_columns": [
+    "city",
+    "state",
+    "day_of_week",
+    "road_type",
+    "weather",
+    "visibility",
+    "traffic_density",
+    "festival",
+    "accident_severity"
+  ],
+  "numerical_columns": [
+    "month",
+    "hour",
+    "lanes",
+    "traffic_signal",
+    "temperature"
+  ],
+  "categorical_uniques": {
+    "city": {
+      "count": 491,
+      "sample_values": [
+        "Balasore",
+        "Ongole",
+        "Bahadurgarh",
+        "Junagadh",
+        "Hanumangarh",
+        "Hoshiarpur",
+        "Kanpur",
+        "Bongaigaon",
+        "Kasaragod",
+        "Machilipatnam",
+        "Jamnagar",
+        "Imphal",
+        "Nandyal",
+        "Canacona",
+        "Balangir",
+        "Baghmara",
+        "Bairabi",
+        "Ooty",
+        "Nellore",
+        "Karur"
+      ]
+    },
+    "state": {
+      "count": 28,
+      "sample_values": [
+        "Odisha",
+        "Andhra Pradesh",
+        "Haryana",
+        "Gujarat",
+        "Rajasthan",
+        "Punjab",
+        "Uttar Pradesh",
+        "Assam",
+        "Kerala",
+        "Manipur",
+        "Goa",
+        "Meghalaya",
+        "Mizoram",
+        "Tamil Nadu",
+        "Jharkhand",
+        "Chhattisgarh",
+        "Uttarakhand",
+        "Telangana",
+        "Nagaland",
+        "West Bengal"
+      ]
+    },
+    "day_of_week": {
+      "count": 7,
+      "sample_values": [
+        "Saturday",
+        "Wednesday",
+        "Tuesday",
+        "Monday",
+        "Thursday",
+        "Friday",
+        "Sunday"
+      ]
+    },
+    "road_type": {
+      "count": 5,
+      "sample_values": [
+        "State Highway",
+        "National Highway",
+        "Expressway",
+        "Rural Road",
+        "City Road"
+      ]
+    },
+    "weather": {
+      "count": 5,
+      "sample_values": [
+        "Sunny",
+        "Rainy",
+        "Cloudy",
+        "Foggy",
+        "Clear"
+      ]
+    },
+    "visibility": {
+      "count": 3,
+      "sample_values": [
+        "Low",
+        "Medium",
+        "High"
+      ]
+    },
+    "traffic_density": {
+      "count": 4,
+      "sample_values": [
+        "Choked",
+        "Low",
+        "Medium",
+        "High"
+      ]
+    },
+    "festival": {
+      "count": 10,
+      "sample_values": [
+        "Navratri",
+        "Holi",
+        "Christmas",
+        "Pongal",
+        "Unknown",
+        "Eid",
+        "Durga Puja",
+        "Ganesh Chaturthi",
+        "Baisakhi",
+        "Diwali"
+      ]
+    },
+    "accident_severity": {
+      "count": 4,
+      "sample_values": [
+        "Severe",
+        "Moderate",
+        "Minor",
+        "Fatal"
+      ]
+    }
+  },
+  "numerical_statistics": {
+    "month": {
+      "count": 500000.0,
+      "mean": 6.52,
+      "std": 3.45,
+      "min": 1.0,
+      "25%": 4.0,
+      "50%": 7.0,
+      "75%": 10.0,
+      "max": 12.0
+    },
+    "hour": {
+      "count": 500000.0,
+      "mean": 11.5,
+      "std": 6.91,
+      "min": 0.0,
+      "25%": 6.0,
+      "50%": 12.0,
+      "75%": 17.0,
+      "max": 23.0
+    },
+    "lanes": {
+      "count": 500000.0,
+      "mean": 4.0,
+      "std": 1.63,
+      "min": 2.0,
+      "25%": 2.0,
+      "50%": 4.0,
+      "75%": 6.0,
+      "max": 6.0
+    },
+    "traffic_signal": {
+      "count": 500000.0,
+      "mean": 0.5,
+      "std": 0.5,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 1.0,
+      "max": 1.0
+    },
+    "temperature": {
+      "count": 500000.0,
+      "mean": 25.01,
+      "std": 11.55,
+      "min": 5.0,
+      "25%": 15.0,
+      "50%": 25.0,
+      "75%": 35.0,
+      "max": 45.0
+    }
+  },
+  "head_5_records": [
+    {
+      "city": "Balasore",
+      "state": "Odisha",
+      "month": 12,
+      "hour": 16,
+      "day_of_week": "Saturday",
+      "road_type": "State Highway",
+      "lanes": 6,
+      "traffic_signal": 1,
+      "weather": "Sunny",
+      "visibility": "Low",
+      "temperature": 19.3,
+      "traffic_density": "Choked",
+      "festival": "Navratri",
+      "accident_severity": "Severe"
+    },
+    {
+      "city": "Ongole",
+      "state": "Andhra Pradesh",
+      "month": 1,
+      "hour": 9,
+      "day_of_week": "Wednesday",
+      "road_type": "National Highway",
+      "lanes": 2,
+      "traffic_signal": 1,
+      "weather": "Rainy",
+      "visibility": "Medium",
+      "temperature": 22.6,
+      "traffic_density": "Low",
+      "festival": "Holi",
+      "accident_severity": "Moderate"
+    },
+    {
+      "city": "Bahadurgarh",
+      "state": "Haryana",
+      "month": 6,
+      "hour": 11,
+      "day_of_week": "Tuesday",
+      "road_type": "National Highway",
+      "lanes": 2,
+      "traffic_signal": 1,
+      "weather": "Rainy",
+      "visibility": "Medium",
+      "temperature": 19.7,
+      "traffic_density": "Choked",
+      "festival": "Christmas",
+      "accident_severity": "Moderate"
+    },
+    {
+      "city": "Junagadh",
+      "state": "Gujarat",
+      "month": 5,
+      "hour": 20,
+      "day_of_week": "Monday",
+      "road_type": "Expressway",
+      "lanes": 2,
+      "traffic_signal": 0,
+      "weather": "Cloudy",
+      "visibility": "Medium",
+      "temperature": 14.1,
+      "traffic_density": "Low",
+      "festival": "Pongal",
+      "accident_severity": "Severe"
+    },
+    {
+      "city": "Hanumangarh",
+      "state": "Rajasthan",
+      "month": 6,
+      "hour": 3,
+      "day_of_week": "Thursday",
+      "road_type": "Rural Road",
+      "lanes": 2,
+      "traffic_signal": 0,
+      "weather": "Cloudy",
+      "visibility": "Low",
+      "temperature": 42.4,
+      "traffic_density": "Choked",
+      "festival": "Unknown",
+      "accident_severity": "Minor"
+    }
+  ]
+}

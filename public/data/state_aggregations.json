@@ -1,0 +1,926 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "lat": 15.9129,
+    "lng": 79.74,
+    "total_accidents": 38549,
+    "severities": {
+      "Minor": 9679,
+      "Moderate": 9666,
+      "Severe": 9586,
+      "Fatal": 9618
+    },
+    "weather_breakdown": {
+      "Foggy": 7796,
+      "Cloudy": 7792,
+      "Clear": 7791,
+      "Rainy": 7668,
+      "Sunny": 7502
+    },
+    "road_breakdown": {
+      "National Highway": 7788,
+      "State Highway": 7745,
+      "City Road": 7739,
+      "Rural Road": 7738,
+      "Expressway": 7539
+    },
+    "density_breakdown": {
+      "Low": 9737,
+      "Choked": 9689,
+      "Medium": 9666,
+      "High": 9457
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Assam",
+    "lat": 26.2006,
+    "lng": 92.9376,
+    "total_accidents": 33496,
+    "severities": {
+      "Minor": 8448,
+      "Moderate": 8298,
+      "Severe": 8459,
+      "Fatal": 8291
+    },
+    "weather_breakdown": {
+      "Rainy": 6758,
+      "Cloudy": 6720,
+      "Sunny": 6700,
+      "Foggy": 6694,
+      "Clear": 6624
+    },
+    "road_breakdown": {
+      "National Highway": 6790,
+      "City Road": 6753,
+      "Rural Road": 6703,
+      "Expressway": 6692,
+      "State Highway": 6558
+    },
+    "density_breakdown": {
+      "Low": 8408,
+      "Choked": 8397,
+      "Medium": 8370,
+      "High": 8321
+    },
+    "city_count": 17
+  },
+  {
+    "state": "Bihar",
+    "lat": 25.0961,
+    "lng": 85.3131,
+    "total_accidents": 31852,
+    "severities": {
+      "Minor": 7997,
+      "Moderate": 8033,
+      "Severe": 7819,
+      "Fatal": 8003
+    },
+    "weather_breakdown": {
+      "Rainy": 6490,
+      "Clear": 6396,
+      "Cloudy": 6354,
+      "Sunny": 6327,
+      "Foggy": 6285
+    },
+    "road_breakdown": {
+      "Rural Road": 6486,
+      "National Highway": 6408,
+      "State Highway": 6373,
+      "City Road": 6316,
+      "Expressway": 6269
+    },
+    "density_breakdown": {
+      "Choked": 8065,
+      "Medium": 7993,
+      "Low": 7965,
+      "High": 7829
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "lat": 28.218,
+    "lng": 94.7278,
+    "total_accidents": 29316,
+    "severities": {
+      "Minor": 7337,
+      "Moderate": 7293,
+      "Severe": 7427,
+      "Fatal": 7259
+    },
+    "weather_breakdown": {
+      "Clear": 5972,
+      "Foggy": 5887,
+      "Rainy": 5826,
+      "Sunny": 5822,
+      "Cloudy": 5809
+    },
+    "road_breakdown": {
+      "City Road": 5905,
+      "Rural Road": 5880,
+      "State Highway": 5869,
+      "National Highway": 5834,
+      "Expressway": 5828
+    },
+    "density_breakdown": {
+      "Low": 7434,
+      "Medium": 7356,
+      "Choked": 7290,
+      "High": 7236
+    },
+    "city_count": 15
+  },
+  {
+    "state": "Gujarat",
+    "lat": 22.2587,
+    "lng": 71.1924,
+    "total_accidents": 24527,
+    "severities": {
+      "Minor": 6312,
+      "Moderate": 6151,
+      "Severe": 6027,
+      "Fatal": 6037
+    },
+    "weather_breakdown": {
+      "Rainy": 5002,
+      "Cloudy": 4939,
+      "Clear": 4915,
+      "Foggy": 4847,
+      "Sunny": 4824
+    },
+    "road_breakdown": {
+      "State Highway": 4971,
+      "Expressway": 4946,
+      "Rural Road": 4932,
+      "City Road": 4874,
+      "National Highway": 4804
+    },
+    "density_breakdown": {
+      "High": 6203,
+      "Medium": 6180,
+      "Choked": 6114,
+      "Low": 6030
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Chhattisgarh",
+    "lat": 21.2787,
+    "lng": 81.8661,
+    "total_accidents": 21723,
+    "severities": {
+      "Minor": 5511,
+      "Moderate": 5425,
+      "Severe": 5440,
+      "Fatal": 5347
+    },
+    "weather_breakdown": {
+      "Rainy": 4406,
+      "Clear": 4385,
+      "Foggy": 4327,
+      "Sunny": 4326,
+      "Cloudy": 4279
+    },
+    "road_breakdown": {
+      "State Highway": 4426,
+      "Expressway": 4370,
+      "National Highway": 4343,
+      "City Road": 4342,
+      "Rural Road": 4242
+    },
+    "density_breakdown": {
+      "Choked": 5480,
+      "High": 5444,
+      "Low": 5429,
+      "Medium": 5370
+    },
+    "city_count": 15
+  },
+  {
+    "state": "Haryana",
+    "lat": 29.0588,
+    "lng": 76.0856,
+    "total_accidents": 20597,
+    "severities": {
+      "Minor": 5117,
+      "Moderate": 5161,
+      "Severe": 5127,
+      "Fatal": 5192
+    },
+    "weather_breakdown": {
+      "Rainy": 4168,
+      "Cloudy": 4164,
+      "Clear": 4123,
+      "Foggy": 4100,
+      "Sunny": 4042
+    },
+    "road_breakdown": {
+      "State Highway": 4211,
+      "Expressway": 4113,
+      "Rural Road": 4104,
+      "National Highway": 4090,
+      "City Road": 4079
+    },
+    "density_breakdown": {
+      "Medium": 5293,
+      "Choked": 5116,
+      "High": 5108,
+      "Low": 5080
+    },
+    "city_count": 18
+  },
+  {
+    "state": "Goa",
+    "lat": 15.2993,
+    "lng": 74.124,
+    "total_accidents": 19218,
+    "severities": {
+      "Minor": 4763,
+      "Moderate": 4809,
+      "Severe": 4801,
+      "Fatal": 4845
+    },
+    "weather_breakdown": {
+      "Foggy": 3879,
+      "Rainy": 3864,
+      "Clear": 3829,
+      "Cloudy": 3825,
+      "Sunny": 3821
+    },
+    "road_breakdown": {
+      "State Highway": 3911,
+      "Expressway": 3889,
+      "National Highway": 3888,
+      "City Road": 3797,
+      "Rural Road": 3733
+    },
+    "density_breakdown": {
+      "Choked": 4879,
+      "High": 4806,
+      "Low": 4801,
+      "Medium": 4732
+    },
+    "city_count": 15
+  },
+  {
+    "state": "Karnataka",
+    "lat": 15.3173,
+    "lng": 75.7139,
+    "total_accidents": 18823,
+    "severities": {
+      "Minor": 4720,
+      "Moderate": 4758,
+      "Severe": 4625,
+      "Fatal": 4720
+    },
+    "weather_breakdown": {
+      "Clear": 3828,
+      "Sunny": 3790,
+      "Cloudy": 3765,
+      "Rainy": 3725,
+      "Foggy": 3715
+    },
+    "road_breakdown": {
+      "National Highway": 3879,
+      "Rural Road": 3830,
+      "City Road": 3746,
+      "Expressway": 3709,
+      "State Highway": 3659
+    },
+    "density_breakdown": {
+      "High": 4718,
+      "Low": 4713,
+      "Choked": 4700,
+      "Medium": 4692
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Madhya Pradesh",
+    "lat": 22.9734,
+    "lng": 78.6569,
+    "total_accidents": 18815,
+    "severities": {
+      "Minor": 4741,
+      "Moderate": 4729,
+      "Severe": 4629,
+      "Fatal": 4716
+    },
+    "weather_breakdown": {
+      "Sunny": 3853,
+      "Clear": 3776,
+      "Foggy": 3738,
+      "Rainy": 3734,
+      "Cloudy": 3714
+    },
+    "road_breakdown": {
+      "Expressway": 3819,
+      "State Highway": 3788,
+      "City Road": 3764,
+      "Rural Road": 3744,
+      "National Highway": 3700
+    },
+    "density_breakdown": {
+      "Medium": 4742,
+      "Low": 4727,
+      "Choked": 4684,
+      "High": 4662
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Maharashtra",
+    "lat": 19.7515,
+    "lng": 75.7139,
+    "total_accidents": 18705,
+    "severities": {
+      "Minor": 4609,
+      "Moderate": 4729,
+      "Severe": 4623,
+      "Fatal": 4744
+    },
+    "weather_breakdown": {
+      "Foggy": 3796,
+      "Cloudy": 3754,
+      "Sunny": 3735,
+      "Rainy": 3714,
+      "Clear": 3706
+    },
+    "road_breakdown": {
+      "National Highway": 3802,
+      "Rural Road": 3788,
+      "City Road": 3768,
+      "State Highway": 3693,
+      "Expressway": 3654
+    },
+    "density_breakdown": {
+      "Low": 4752,
+      "Choked": 4717,
+      "High": 4695,
+      "Medium": 4541
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Kerala",
+    "lat": 10.8505,
+    "lng": 76.2711,
+    "total_accidents": 17744,
+    "severities": {
+      "Minor": 4383,
+      "Moderate": 4332,
+      "Severe": 4511,
+      "Fatal": 4518
+    },
+    "weather_breakdown": {
+      "Clear": 3624,
+      "Rainy": 3572,
+      "Cloudy": 3563,
+      "Foggy": 3525,
+      "Sunny": 3460
+    },
+    "road_breakdown": {
+      "Expressway": 3669,
+      "Rural Road": 3565,
+      "National Highway": 3555,
+      "State Highway": 3520,
+      "City Road": 3435
+    },
+    "density_breakdown": {
+      "Low": 4574,
+      "High": 4503,
+      "Choked": 4365,
+      "Medium": 4302
+    },
+    "city_count": 18
+  },
+  {
+    "state": "Jharkhand",
+    "lat": 23.6102,
+    "lng": 85.2799,
+    "total_accidents": 16185,
+    "severities": {
+      "Minor": 4028,
+      "Moderate": 4063,
+      "Severe": 3986,
+      "Fatal": 4108
+    },
+    "weather_breakdown": {
+      "Clear": 3281,
+      "Cloudy": 3251,
+      "Foggy": 3246,
+      "Sunny": 3209,
+      "Rainy": 3198
+    },
+    "road_breakdown": {
+      "Rural Road": 3277,
+      "State Highway": 3263,
+      "City Road": 3260,
+      "Expressway": 3221,
+      "National Highway": 3164
+    },
+    "density_breakdown": {
+      "Low": 4108,
+      "Choked": 4103,
+      "High": 3988,
+      "Medium": 3986
+    },
+    "city_count": 15
+  },
+  {
+    "state": "Himachal Pradesh",
+    "lat": 31.1048,
+    "lng": 77.1734,
+    "total_accidents": 16135,
+    "severities": {
+      "Minor": 3968,
+      "Moderate": 4076,
+      "Severe": 4019,
+      "Fatal": 4072
+    },
+    "weather_breakdown": {
+      "Foggy": 3300,
+      "Clear": 3237,
+      "Cloudy": 3234,
+      "Rainy": 3199,
+      "Sunny": 3165
+    },
+    "road_breakdown": {
+      "City Road": 3286,
+      "National Highway": 3249,
+      "Expressway": 3219,
+      "Rural Road": 3199,
+      "State Highway": 3182
+    },
+    "density_breakdown": {
+      "High": 4083,
+      "Low": 4025,
+      "Choked": 4018,
+      "Medium": 4009
+    },
+    "city_count": 15
+  },
+  {
+    "state": "Tamil Nadu",
+    "lat": 11.1271,
+    "lng": 78.6569,
+    "total_accidents": 14570,
+    "severities": {
+      "Minor": 3572,
+      "Moderate": 3671,
+      "Severe": 3756,
+      "Fatal": 3571
+    },
+    "weather_breakdown": {
+      "Clear": 2984,
+      "Foggy": 2968,
+      "Sunny": 2932,
+      "Cloudy": 2886,
+      "Rainy": 2800
+    },
+    "road_breakdown": {
+      "City Road": 3003,
+      "State Highway": 2935,
+      "Rural Road": 2935,
+      "Expressway": 2886,
+      "National Highway": 2811
+    },
+    "density_breakdown": {
+      "Low": 3767,
+      "High": 3667,
+      "Choked": 3605,
+      "Medium": 3531
+    },
+    "city_count": 20
+  },
+  {
+    "state": "West Bengal",
+    "lat": 22.9868,
+    "lng": 87.855,
+    "total_accidents": 14502,
+    "severities": {
+      "Minor": 3610,
+      "Moderate": 3686,
+      "Severe": 3605,
+      "Fatal": 3601
+    },
+    "weather_breakdown": {
+      "Foggy": 2960,
+      "Clear": 2909,
+      "Rainy": 2895,
+      "Cloudy": 2872,
+      "Sunny": 2866
+    },
+    "road_breakdown": {
+      "Expressway": 2967,
+      "State Highway": 2924,
+      "City Road": 2912,
+      "Rural Road": 2887,
+      "National Highway": 2812
+    },
+    "density_breakdown": {
+      "High": 3738,
+      "Low": 3607,
+      "Medium": 3606,
+      "Choked": 3551
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Punjab",
+    "lat": 31.1471,
+    "lng": 75.3412,
+    "total_accidents": 14491,
+    "severities": {
+      "Minor": 3589,
+      "Moderate": 3737,
+      "Severe": 3661,
+      "Fatal": 3504
+    },
+    "weather_breakdown": {
+      "Clear": 2930,
+      "Foggy": 2922,
+      "Sunny": 2887,
+      "Rainy": 2879,
+      "Cloudy": 2873
+    },
+    "road_breakdown": {
+      "City Road": 2992,
+      "National Highway": 2894,
+      "Expressway": 2893,
+      "Rural Road": 2857,
+      "State Highway": 2855
+    },
+    "density_breakdown": {
+      "Low": 3669,
+      "High": 3627,
+      "Medium": 3598,
+      "Choked": 3597
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Odisha",
+    "lat": 20.9517,
+    "lng": 85.0985,
+    "total_accidents": 14481,
+    "severities": {
+      "Minor": 3602,
+      "Moderate": 3541,
+      "Severe": 3642,
+      "Fatal": 3696
+    },
+    "weather_breakdown": {
+      "Foggy": 2941,
+      "Cloudy": 2920,
+      "Clear": 2907,
+      "Rainy": 2883,
+      "Sunny": 2830
+    },
+    "road_breakdown": {
+      "National Highway": 2970,
+      "Rural Road": 2949,
+      "State Highway": 2934,
+      "City Road": 2833,
+      "Expressway": 2795
+    },
+    "density_breakdown": {
+      "High": 3729,
+      "Low": 3617,
+      "Medium": 3596,
+      "Choked": 3539
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Uttar Pradesh",
+    "lat": 26.8467,
+    "lng": 80.9462,
+    "total_accidents": 14467,
+    "severities": {
+      "Minor": 3571,
+      "Moderate": 3600,
+      "Severe": 3594,
+      "Fatal": 3702
+    },
+    "weather_breakdown": {
+      "Foggy": 2928,
+      "Rainy": 2900,
+      "Cloudy": 2896,
+      "Sunny": 2886,
+      "Clear": 2857
+    },
+    "road_breakdown": {
+      "National Highway": 2946,
+      "Expressway": 2933,
+      "City Road": 2905,
+      "Rural Road": 2854,
+      "State Highway": 2829
+    },
+    "density_breakdown": {
+      "Medium": 3654,
+      "High": 3644,
+      "Low": 3585,
+      "Choked": 3584
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Rajasthan",
+    "lat": 27.0238,
+    "lng": 74.2179,
+    "total_accidents": 14352,
+    "severities": {
+      "Minor": 3520,
+      "Moderate": 3702,
+      "Severe": 3544,
+      "Fatal": 3586
+    },
+    "weather_breakdown": {
+      "Rainy": 2929,
+      "Cloudy": 2904,
+      "Clear": 2865,
+      "Foggy": 2852,
+      "Sunny": 2802
+    },
+    "road_breakdown": {
+      "Expressway": 2933,
+      "City Road": 2916,
+      "National Highway": 2856,
+      "State Highway": 2830,
+      "Rural Road": 2817
+    },
+    "density_breakdown": {
+      "Choked": 3681,
+      "High": 3595,
+      "Low": 3555,
+      "Medium": 3521
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Telangana",
+    "lat": 18.1124,
+    "lng": 79.0193,
+    "total_accidents": 14340,
+    "severities": {
+      "Minor": 3575,
+      "Moderate": 3704,
+      "Severe": 3460,
+      "Fatal": 3601
+    },
+    "weather_breakdown": {
+      "Sunny": 2925,
+      "Clear": 2918,
+      "Foggy": 2869,
+      "Cloudy": 2827,
+      "Rainy": 2801
+    },
+    "road_breakdown": {
+      "Expressway": 2913,
+      "Rural Road": 2885,
+      "National Highway": 2860,
+      "City Road": 2859,
+      "State Highway": 2823
+    },
+    "density_breakdown": {
+      "Choked": 3700,
+      "Medium": 3582,
+      "High": 3566,
+      "Low": 3492
+    },
+    "city_count": 20
+  },
+  {
+    "state": "Meghalaya",
+    "lat": 25.467,
+    "lng": 91.3662,
+    "total_accidents": 10558,
+    "severities": {
+      "Minor": 2692,
+      "Moderate": 2581,
+      "Severe": 2623,
+      "Fatal": 2662
+    },
+    "weather_breakdown": {
+      "Clear": 2172,
+      "Cloudy": 2120,
+      "Foggy": 2106,
+      "Rainy": 2089,
+      "Sunny": 2071
+    },
+    "road_breakdown": {
+      "National Highway": 2190,
+      "City Road": 2160,
+      "State Highway": 2100,
+      "Rural Road": 2065,
+      "Expressway": 2043
+    },
+    "density_breakdown": {
+      "Medium": 2663,
+      "High": 2653,
+      "Low": 2633,
+      "Choked": 2609
+    },
+    "city_count": 15
+  },
+  {
+    "state": "Nagaland",
+    "lat": 26.1584,
+    "lng": 94.5624,
+    "total_accidents": 10515,
+    "severities": {
+      "Minor": 2592,
+      "Moderate": 2558,
+      "Severe": 2665,
+      "Fatal": 2700
+    },
+    "weather_breakdown": {
+      "Clear": 2123,
+      "Cloudy": 2108,
+      "Sunny": 2095,
+      "Foggy": 2095,
+      "Rainy": 2094
+    },
+    "road_breakdown": {
+      "State Highway": 2145,
+      "National Highway": 2120,
+      "Expressway": 2119,
+      "City Road": 2077,
+      "Rural Road": 2054
+    },
+    "density_breakdown": {
+      "Low": 2711,
+      "Medium": 2686,
+      "High": 2584,
+      "Choked": 2534
+    },
+    "city_count": 15
+  },
+  {
+    "state": "Sikkim",
+    "lat": 27.533,
+    "lng": 88.5122,
+    "total_accidents": 10485,
+    "severities": {
+      "Minor": 2656,
+      "Moderate": 2633,
+      "Severe": 2553,
+      "Fatal": 2643
+    },
+    "weather_breakdown": {
+      "Foggy": 2162,
+      "Clear": 2107,
+      "Sunny": 2090,
+      "Rainy": 2074,
+      "Cloudy": 2052
+    },
+    "road_breakdown": {
+      "Rural Road": 2146,
+      "City Road": 2115,
+      "State Highway": 2087,
+      "Expressway": 2085,
+      "National Highway": 2052
+    },
+    "density_breakdown": {
+      "High": 2636,
+      "Low": 2627,
+      "Choked": 2615,
+      "Medium": 2607
+    },
+    "city_count": 15
+  },
+  {
+    "state": "Tripura",
+    "lat": 23.9408,
+    "lng": 91.9882,
+    "total_accidents": 10440,
+    "severities": {
+      "Minor": 2610,
+      "Moderate": 2612,
+      "Severe": 2635,
+      "Fatal": 2583
+    },
+    "weather_breakdown": {
+      "Rainy": 2168,
+      "Cloudy": 2115,
+      "Clear": 2108,
+      "Foggy": 2041,
+      "Sunny": 2008
+    },
+    "road_breakdown": {
+      "City Road": 2120,
+      "Expressway": 2109,
+      "Rural Road": 2079,
+      "National Highway": 2076,
+      "State Highway": 2056
+    },
+    "density_breakdown": {
+      "High": 2675,
+      "Choked": 2639,
+      "Low": 2579,
+      "Medium": 2547
+    },
+    "city_count": 15
+  },
+  {
+    "state": "Manipur",
+    "lat": 24.6637,
+    "lng": 93.9063,
+    "total_accidents": 10384,
+    "severities": {
+      "Minor": 2652,
+      "Moderate": 2609,
+      "Severe": 2587,
+      "Fatal": 2536
+    },
+    "weather_breakdown": {
+      "Cloudy": 2120,
+      "Rainy": 2118,
+      "Clear": 2066,
+      "Sunny": 2055,
+      "Foggy": 2025
+    },
+    "road_breakdown": {
+      "State Highway": 2114,
+      "Rural Road": 2103,
+      "Expressway": 2095,
+      "City Road": 2037,
+      "National Highway": 2035
+    },
+    "density_breakdown": {
+      "Choked": 2645,
+      "Medium": 2605,
+      "Low": 2600,
+      "High": 2534
+    },
+    "city_count": 15
+  },
+  {
+    "state": "Uttarakhand",
+    "lat": 30.0668,
+    "lng": 79.0193,
+    "total_accidents": 10382,
+    "severities": {
+      "Minor": 2644,
+      "Moderate": 2513,
+      "Severe": 2603,
+      "Fatal": 2622
+    },
+    "weather_breakdown": {
+      "Cloudy": 2131,
+      "Clear": 2130,
+      "Sunny": 2092,
+      "Rainy": 2038,
+      "Foggy": 1991
+    },
+    "road_breakdown": {
+      "State Highway": 2097,
+      "Rural Road": 2097,
+      "National Highway": 2072,
+      "City Road": 2059,
+      "Expressway": 2057
+    },
+    "density_breakdown": {
+      "Low": 2642,
+      "Choked": 2622,
+      "Medium": 2565,
+      "High": 2553
+    },
+    "city_count": 15
+  },
+  {
+    "state": "Mizoram",
+    "lat": 23.1645,
+    "lng": 92.9376,
+    "total_accidents": 10348,
+    "severities": {
+      "Minor": 2507,
+      "Moderate": 2686,
+      "Severe": 2514,
+      "Fatal": 2641
+    },
+    "weather_breakdown": {
+      "Clear": 2128,
+      "Foggy": 2068,
+      "Sunny": 2062,
+      "Rainy": 2049,
+      "Cloudy": 2041
+    },
+    "road_breakdown": {
+      "Rural Road": 2115,
+      "City Road": 2091,
+      "State Highway": 2079,
+      "National Highway": 2046,
+      "Expressway": 2017
+    },
+    "density_breakdown": {
+      "Choked": 2607,
+      "Low": 2604,
+      "High": 2592,
+      "Medium": 2545
+    },
+    "city_count": 15
+  }
+]

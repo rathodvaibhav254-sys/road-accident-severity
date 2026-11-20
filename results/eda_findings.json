@@ -1,0 +1,14 @@
+{
+  "01_accident_severity_distribution": "The target variable 'accident_severity' is uniformly balanced across all four classes: Moderate (25.07%), Fatal (25.02%), Minor (25.00%), and Severe (24.90%). This balanced distribution eliminates severe class-imbalance bias, allowing macro-average and weighted metrics to be evaluated fairly.",
+  "02_accidents_by_state": "Accident counts span 28 Indian states. The states with highest frequencies include Andhra Pradesh, Assam, Bihar, Arunachal Pradesh, Gujarat, showing a broad geographic distribution across India.",
+  "03_accidents_by_city": "The dataset records incidents across 491 cities. The top 20 cities include Karimganj, Bilaspur, Bhavnagar, Lucknow, Kota, each contributing approximately 1,100 to 1,300 accidents.",
+  "04_accidents_by_weather": "Accidents are evenly distributed across 5 simulated weather conditions: Sunny, Rainy, Cloudy, Foggy, and Clear (~100,000 each).",
+  "05_accidents_by_road_type": "5 road classifications are present: State Highway, National Highway, Expressway, Rural Road, and City Road (~100,000 records each).",
+  "06_accidents_by_road_features": "Accidents occur across 2-lane, 4-lane, and 6-lane roads with a 50-50 split of traffic signal availability.",
+  "07_accidents_by_hour": "Accidents are distributed consistently across all 24 hours of the day (~20,800 records per hour).",
+  "08_accidents_by_day_of_week": "All 7 days of the week exhibit roughly equal accident counts (~71,400 per day).",
+  "09_traffic_density_vs_severity": "Crosstab analysis between traffic density (Low, Medium, High, Choked) and severity shows class proportions consistently around 25% each, demonstrating that severity variation is governed by non-linear combinations of factors.",
+  "10_road_type_vs_severity": "Severity distribution across Expressways, Highways, and City Roads shows balanced 4-class proportions across each road type.",
+  "11_correlation_heatmap": "Pairwise Pearson correlation coefficients among numerical features (month, hour, lanes, traffic_signal, temperature) are virtually 0.000, indicating absence of linear multicollinearity.",
+  "12_visibility_vs_severity": "Visibility conditions (Low, Medium, High) display four-class balance across each stratum."
+}
